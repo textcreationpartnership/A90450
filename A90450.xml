@@ -1,0 +1,1841 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Pepys to the President and Governours of Christ-Hospital upon the present state of the said hospital. To the Honour'd Sir John Moor, Kt. and President, and the rest of my honour'd friends, the governours of Christ-Hospital. : York-Buildings, Monday, Novem. 21. 1698.</title>
+            <author>Pepys, Samuel, 1633-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 94 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90450</idno>
+            <idno type="STC">Wing P1451C</idno>
+            <idno type="STC">ESTC R187059</idno>
+            <idno type="EEBO-CITATION">43078116</idno>
+            <idno type="OCLC">ocm 43078116</idno>
+            <idno type="VID">151638</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90450)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151638)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2268:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Pepys to the President and Governours of Christ-Hospital upon the present state of the said hospital. To the Honour'd Sir John Moor, Kt. and President, and the rest of my honour'd friends, the governours of Christ-Hospital. : York-Buildings, Monday, Novem. 21. 1698.</title>
+                  <author>Pepys, Samuel, 1633-1703.</author>
+                  <author>Moor, John, Sir.</author>
+                  <author>Christ's Hospital (London, England). Board of Governours.</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christ's Hospital (London, England)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:151638:1"/>
+            <head>Mr. <hi>PEPYS</hi> To the <hi>Preſident</hi> and
+<hi>Governours</hi> of <hi>CHRIST-HOSPITAL</hi> upon the <hi>Preſent
+State</hi> of the ſaid <hi>HOSPITAL.</hi>
+            </head>
+            <head type="sub">To the Honour'd Sir <hi>John Moor,</hi> Kt. and
+<hi>Preſident,</hi> and the rest of my Honour'd <hi>Friends,</hi> the
+<hi>Gover<g ref="char:EOLhyphen"/>nours</hi> of <hi>CHRIST-HOSPITAL.</hi>
+            </head>
+            <opener>
+               <dateline>York-Buildings.
+<date>
+                     <hi>Monday,</hi> Novem. 21. 1698.</date>
+               </dateline>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>IN purſuance of a <hi>Reſolution</hi> of his
+<hi>Lordſhip</hi> the preſent Lord <hi>Mayor</hi> and <hi>Court of
+Aldermen</hi> at their laſt <hi>Sitting</hi> (our Worthy <hi>Preſident
+<hi>Sir John Moore</hi>
+               </hi> preſent) in approval of a <hi>Propoſition</hi>
+of mine on that behalf: I incloſe You <hi>Copys</hi> of two <hi>Papers</hi>
+of mine lately wrote, and for their <hi>readier <g ref="char:V">Ʋ</g>ſe</hi> prepar'd as
+theſe are, and directed to the ſeveral <hi>Members</hi> of that
+<hi>Court;</hi> relating to what has paſs'd between the late Lord
+<hi>Mayor,</hi> the ſaid <hi>Court,</hi> and <hi>My ſelf,</hi> upon the
+preſent <hi>State</hi> of this <hi>Hoſpital.</hi>
+            </p>
+            <p>And this I do; as well for your <hi>Information</hi> in all my
+<hi>Proceedings</hi> in this <hi>Matter,</hi> and ſatisfaction in the
+<hi>Regard</hi> ſhewn therein to the <hi>Honour,</hi> no leſs than
+<hi>Service</hi> of this <hi>Houſe</hi> (notwithſtanding what has been ſo
+injuriouſly averr'd in it to the contrary) as for inlight'ning at once your
+whole <hi>Body,</hi> in the <hi>Truth,</hi> and <hi>Moment</hi> of the
+<hi>Particulars</hi> in preſent <hi>Debate</hi> concerning it.</p>
+            <p>In order whereto, and for that the <hi>Court</hi> of
+<hi>Aldermen</hi> have not yet thought fit to allow of my repeated
+<hi>Suit</hi> to Them, for their <hi>disburthen<g ref="char:EOLhyphen"/>ing</hi> me of the
+<hi>Charge</hi> I ſtill lie under from them, as <hi>your
+<hi>Fellow-Ser<g ref="char:EOLhyphen"/>vant.</hi>
+               </hi> I do (as <hi>ſuch</hi>) tender it as my
+earneſt and humble <hi>Advice</hi> to you, that theſe <hi>Papers</hi> may
+not, like <hi>others</hi> of mine of equal <hi>Import,</hi> be
+<hi>ta<g ref="char:EOLhyphen"/>ken-up,</hi> and the knowledge of them <hi>ſuppreſs'd,</hi> to the
+(I fear) irrepa<g ref="char:EOLhyphen"/>rable <hi>Wrong</hi> of this <hi>Houſe:</hi> But, if it may
+ſtand with your good <hi>liking,</hi> communicated to a <hi>General Court
+<hi>ſpecially call'd</hi>
+               </hi> on that behalf. For <pb facs="tcp:151638:2"/> as much as,
+that being done, I ſhall not doubt a much happier <hi>Iſſue</hi> of your
+<hi>Deliberations</hi> thereon, than can attend any longer <hi>want</hi> of it:
+<hi>Beſides</hi> the preventing what I ſhould otherwiſe be moſt
+unwillingly driven to, of ſupplying the ineffectuallneſs of theſe
+<hi>Papers</hi> thus addreſs'd to <hi>You</hi> in a <hi>Body,</hi> by a
+<hi>ſeveral One</hi> to be tranſmitted to every <hi>Member</hi> of it.
+Which I cannot but think my <hi>Duty</hi> to ſee done; while ſtanding all
+of us equally intereſted in the <hi>knowing,</hi> and accountable for the
+<hi>due im<g ref="char:EOLhyphen"/>proving</hi> thereof, to the <hi>Benefit</hi> of the <hi>Poor,</hi>
+and <hi>ſatisfaction</hi> of <hi>Thoſe</hi> we ſtand intruſted-by for
+<hi>Them.</hi>
+            </p>
+            <p>Which <hi>praying</hi> your taking in good <hi>part</hi> from me,
+as the <hi>laſt Occaſion,</hi> I hope, ever to have of asking it on theſe
+<hi>Terms; I</hi> do with moſt ſin<g ref="char:EOLhyphen"/>cere <hi>Reſpect</hi> remain,</p>
+            <closer>
+               <salute>Honour'd Gentlemen,</salute>
+               <signed>Your faithful and obedient <hi>Servant,</hi> S. Pepys.</signed>
+            </closer>
+         </div>
+         <div type="summons">
+            <head>At a <hi>General Court</hi> holden in
+<hi>Chriſts-Hoſpital.</hi>
+               <date>the 21th. day of <hi>Novem.</hi> 1698.</date>
+            </head>
+            <p>UPon reading a <hi>Letter</hi> with ſome printed <hi>Papers</hi>
+from <hi>Samuel Pepys, <hi>Eſq;</hi>
+               </hi> which were all incloſed in a
+<hi>Cover,</hi> and directed to the <hi>Preſident,</hi> and
+<hi>Governours</hi> of this <hi>Hoſpital,</hi> aſſembled in
+<hi>Court</hi> this <hi>21th</hi> of <hi>November</hi> 1698. It was by this
+<hi>Court</hi> ordered, that a <hi>General Court</hi> ſhall be ſummoned to
+meet on <hi>Friday</hi> next in the Afternoon, par<g ref="char:EOLhyphen"/>ticularly for
+conſideration of theſe <hi>Papers;</hi> And <hi>Major Aungier</hi> is
+deſir<g ref="char:EOLhyphen"/>ed to attend <hi>Mr. Pepys,</hi> and acquaint him with the meeting of
+the <hi>Court</hi> next <hi>Friday.</hi> and requeſt the favour of his
+<hi>preſence,</hi> and to let him know, that if he doth not think that a
+convenient <hi>Day,</hi> than to deſire him to appoint ſome other ſhort
+<hi>Day,</hi> as may beſt ſuit with his occaſions; and come provided with
+the <hi>particulars</hi> of his <hi>charge</hi> againſt this
+<hi>Hoſpital.</hi>
+            </p>
+            <closer>
+               <signed>William Parrey.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <div type="body_of_letter">
+               <pb facs="tcp:151638:2"/>
+               <head>To the <hi>Preſident</hi> and <hi>Governours</hi> of
+<hi>CHRIST-HOSPITAL</hi> aſſem<g ref="char:EOLhyphen"/>bled in <hi>Court,</hi>
+                  <date>this 25th. of <hi>November</hi> 1698.</date>
+               </head>
+               <opener>
+                  <dateline>York-Buildings,
+<date>
+                        <hi>Fryday,</hi> Novemb. 25th. 1698.</date>
+                  </dateline>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>I Truly <hi>meant</hi> what I <hi>ſaid,</hi> when in
+<hi>Apology</hi> for the trouble of <hi>mine</hi> of the <hi>21th.</hi>
+inſtant, I beſpoke your <hi>Pardon;</hi> as for the <hi>Laſt</hi> I then
+thought my ſelf ever likely to have occaſion of asking it from you on that
+<hi>Subject.</hi> But your <hi>Commands</hi> of the ſame <hi>Date,</hi>
+ſince brought me by one of your own <hi>Number,</hi> notifying your
+<hi>Concurrence</hi> with me, in aſſign<g ref="char:EOLhyphen"/>ing this day for holding a
+ſpecial <hi>Court</hi> upon the <hi>Papers</hi> I then preſent<g ref="char:EOLhyphen"/>ed you with;
+require my <hi>appearing</hi> to you <hi>once</hi> more, not with an
+<hi>Ap<g ref="char:EOLhyphen"/>proval</hi> only, but with my moſt ſerious <hi>Thanks</hi> for what
+you have there<g ref="char:EOLhyphen"/>in done; in <hi>confidence</hi> of its having the <hi>good
+Effects I</hi> then beſpoke to this <hi>unhappy <hi>Houſe</hi>
+                  </hi> from
+it.</p>
+               <p>But having ſaid this; there are two <hi>Particulars</hi> you
+at the ſame time <hi>demand</hi> of me, <hi>which</hi> for the ſake of
+ſuch <hi>Gentlemen</hi> (and thoſe <hi>only</hi>) as the
+<hi>Extraordinaryneſs</hi> of the <hi>Summons</hi> may poſſibly draw
+hi<g ref="char:EOLhyphen"/>ther, beyond what the common <hi>Buſineſſes</hi> of the
+<hi>Houſe</hi> either are, or can reaſonably expect to be attended by; you
+have made it <hi>ne<g ref="char:EOLhyphen"/>ceſſary</hi> for me, in right both to <hi>them</hi> and
+my <hi>ſelf,</hi> to give you a more particular <hi>Return</hi> to,
+<hi>viz.</hi> your beſpeaking my <hi>Perſonal Attendance</hi> at Your
+preſent <hi>Meeting,</hi> and the bringing with me the <hi>Particulars</hi>
+of my <hi>Charge</hi> againſt this <hi>Hoſpital.</hi>
+               </p>
+               <p>As to the <hi>Former</hi> whereof; it might poſſibly be
+deemed too much for me, here to anticipate the <hi>Satisfaction</hi> I have
+largely provided for <hi>theſe</hi> very <hi>Gentlemen</hi> on this
+<hi>Head,</hi> out of Your own <hi>Books,</hi> in that <hi>Report</hi> of mine,
+which has lain from more than eight <hi>Months</hi> ſince, in the
+<hi>Hands</hi> of Your late <hi>Lord Mayor,</hi> and is now remaining with his
+honourable <hi>Succeſſor</hi> in the <hi>Court</hi> of <hi>Aldermen.</hi>
+From a <hi>Committee</hi> of whom, having lately had <pb facs="tcp:151638:3"/> the
+<hi>Honour</hi> of a double <hi>Viſit,</hi> upon the Subject thereof; I
+aſſure my ſelf of your ſoon receiving from that <hi>Court,</hi> full
+Satisfaction in the <hi>Truth</hi> of what I here aſſert.</p>
+               <p>In the mean time nevertheleſs, I ſhall crave leave to
+obſerve to theſe <hi>Gentlemen,</hi> that the <hi>Evils</hi> being all now
+actually falling on Us, which <hi>I</hi> ſo long ago <hi>foretold,</hi> and
+moſt <hi>painfully</hi> labour'd to <hi>prevent;</hi> None, <hi>I</hi>
+preſume, will wonder, if <hi>I</hi> forbear <hi>unneceſſarily</hi> to
+bring my ſelf within the <hi>Reach</hi> of a <hi>Ruin, <hi>I</hi>
+                  </hi> then
+in <hi>Writing</hi> adviſed you of the <hi>Reaſons</hi> of my
+<hi>Withdrawing</hi> from; but will (may I <hi>pre-judge</hi> of any thing)
+ſee occaſion, ſooner to <hi>lament</hi> their <hi>own,</hi> than
+<hi>cenſure my Proceeding</hi> herein. Eſpecially, when in the <hi>Publick
+Inquiſitions</hi> which this <hi>Mat<g ref="char:EOLhyphen"/>ter</hi> muſt inevitably draw on Us,
+they ſhall find <hi>themſelves,</hi> from the very <hi>Regiſter</hi> of
+their <hi>Attendances,</hi> made accountable for the <hi>Obliquities</hi> of
+our <hi>Courts</hi> and <hi>Committees,</hi> even in thoſe very
+<hi>Tranſactions,</hi> where<g ref="char:EOLhyphen"/>in themſelves poſſibly were wholly
+<hi>paſſive,</hi> if not open <hi>Oppoſers:</hi> And this alſo moſt
+to be <hi>apprehended,</hi> from the very <hi>Men</hi> they were ſo
+<hi>over<g ref="char:EOLhyphen"/>born</hi> by, therein. For ſuch was my <hi>Obſervation</hi> in my
+<hi>own Caſe,</hi> in more than a few <hi>Inſtances</hi> (ſtill to be
+recurr'd to) before, for <hi>Self-ſecurity,</hi> I was forced to let fall the
+<hi>Perſonal Duty I</hi> had for ſeven <hi>Years</hi> had the ho<g ref="char:EOLhyphen"/>nour of
+paying to this <hi>Houſe;</hi> and not (I thank God) without ſome
+<hi>Marks</hi> ſtill extant of the <hi>Fruits</hi> of it.</p>
+               <p>But for the <hi>Other,</hi> relating to the <hi>Particulars</hi>
+you ask-for, of my <hi>Charge</hi> againſt this <hi>Hoſpital.</hi> I do not
+know, that in any thing <hi>I</hi> have <hi>hitherto</hi> ſaid or done in
+this <hi>Cauſe, I</hi> have ſo <hi>demeaned</hi> my ſelf; as to deſerve
+being <hi>treated</hi> as your <hi>Accuſer.</hi> Foraſmuch, as had that
+been in my <hi>Eye,</hi> I ſhould not have <hi>choſen</hi> either this
+<hi>Stile</hi> or this <hi>Place</hi> for the exeeuting it in.</p>
+               <p>But if there be any of our <hi>Number,</hi> whoſe
+<hi>Managements</hi> of their <hi>Truſts</hi> have been <hi>ſuch,</hi> as
+will not endure a plain and impartial <hi>State</hi> of our <hi>Condition</hi>
+to be laid either before the <hi>Houſe</hi> it ſelf, or <hi>thoſe</hi> to
+whom it ſtands immediately <hi>accountable for it</hi> (and that is all I
+have hitherto <hi>pretended to</hi>) without giving it the envious
+<hi>Brand</hi> of a <hi>Charge</hi> againſt them. I muſt not then
+<hi>diſown</hi> my being indeed their <hi>Accuſer:</hi> But in lieu of the
+former <hi>Difficulty,</hi> declare my ſelf yet ſo much the more
+<hi>ſur<g ref="char:EOLhyphen"/>priſed,</hi> how they ſhould come <hi>now</hi> to <hi>own</hi>
+the want of a <hi>Charge</hi> from me, whoſe every <hi>Paper,</hi> from the
+day of my <hi>Withdrawing</hi> from them to this, has been little
+<hi>other.</hi> A <hi>Truth</hi> that will but too ſoon become neceſſary
+to be <hi>ſhewn</hi> them.</p>
+               <p>But foraſmuch as <hi>I</hi> have reaſon to believe this
+<hi>Demand</hi> to be owing only to the <hi>
+                     <g ref="char:V">Ʋ</g>neaſineſſes</hi> it has
+been my <hi>Misfortune</hi> to occaſion <hi>ſomewhere,</hi> by my late
+<hi>Enquiries</hi> into theſe <hi>Managements,</hi> and from my
+<hi>Endeavours</hi> to appriſe this <hi>Court</hi> of the true
+<hi>Effects</hi> thereof, upon the <hi>miſerable <hi>In<g ref="char:EOLhyphen"/>fants</hi>
+                  </hi> we
+ſtand here accountable to <hi>Almighty <hi>God</hi>
+                  </hi> for. <hi>I</hi>
+ſhall take leave to put them in <hi>mind,</hi> of what was (at their own
+<hi>inſtance</hi>) laid before them from me on this <hi>Subject,</hi> now
+near twelve <hi>Months</hi> ſince. Where<g ref="char:EOLhyphen"/>of, leaſt it may have been the
+<hi>Fate</hi> of <hi>That</hi> alſo, to miſs your <hi>View,</hi> as it has
+been <hi>Another</hi>'s of a later <hi>Date: I</hi> am prepared for ſupplying
+you with ſuch a <hi>Copy</hi> of it, as theſe <hi>Gentlemen</hi> will
+leaſt queſtion the <hi>Truth</hi> of, when they find it
+<hi>tranſcribed</hi> all with the <hi>Treaſurer</hi>'s own Hand,
+<pb facs="tcp:151638:3"/> and atteſted by the <hi>Clerks</hi> of moſt preſent
+<hi>Credit</hi> with them, Mr. <hi>Reeve,</hi> Mr. <hi>Plumb,</hi> and Mr.
+<hi>Yeo.</hi> And if this <hi>Paper,</hi> with what it contains of the
+preſent <hi>State</hi> of this <hi>Houſe,</hi> muſt be taken for a
+<hi>Charge</hi> againſt them; I am not ſurpriſed at their
+<hi>Diſquiet</hi> under it: As knowing how much I ſhould <hi>my ſelf</hi>
+be <hi>grieved,</hi> to have that aſſerted to me of any <hi>One</hi> other
+<hi>Foundation</hi> of <hi>Charity</hi> in <hi>England,</hi> which is there
+ſaid by <hi>me</hi> of <hi>this;</hi> with<g ref="char:EOLhyphen"/>out having to this <hi>Hour</hi>
+received from them one <hi>Word</hi> of <hi>Exception</hi> to it, tho invited
+thereto, with an <hi>offer</hi> on my <hi>part,</hi> of expoſing to them,
+from their own <hi>Books</hi> and <hi>Regiſters,</hi> the <hi>Grounds</hi> of
+every <hi>Article</hi> in it.</p>
+               <p>And if this be the <hi>Caſe</hi> in this <hi>Inſtance;</hi>
+how much leſs will there ap<g ref="char:EOLhyphen"/>pear of <hi>Reaſon</hi> for their calling on me
+for the <hi>Particulars</hi> of a <hi>Charge,</hi> when <hi>I</hi> ſhall yet
+refer them to my foremention'd <hi>Report</hi> (whereof this is but the
+<hi>Contents</hi> of one <hi>Part</hi> onely) which was by me lodg'd with Sir
+<hi>Humphry Edwin</hi> your late Lord <hi>Mayor,</hi> and directed to
+<hi>you</hi> ſo many <hi>Months</hi> ſince, with his then Undertaking for
+its ſpeedy <hi>Delivery</hi> and publick <hi>Enquiry</hi> into; and yet but
+now newly <hi>diſcovered,</hi> and taken in<g ref="char:EOLhyphen"/>to the <hi>Cuſtody</hi> of his
+honourable <hi>Succeſſor</hi> and the <hi>Court</hi> of <hi>Aldermen;</hi>
+for the <hi>Good, I</hi> hope, (as late as it is) of thoſe for whoſe ſake
+<hi>I</hi> provided it?</p>
+               <p>In order to which, having thus ſaid what <hi>I</hi> think
+needful and my <hi>Duty</hi> to do, in <hi>Return</hi> to this your <hi>Order;
+I</hi> ſhall (as <hi>One</hi> not yet <hi>free</hi> from my
+<hi>Obligation</hi> to this <hi>Place</hi>) take the liberty of giving it you
+as my moſt humble <hi>Advice,</hi> That this <hi>Court</hi> would (in the
+moſt ſatisfactory manner it may) apply it ſelf to the <hi>Court</hi> of
+<hi>Aldermen</hi> for the <hi>Original</hi> or <hi>Duplicate</hi> of that
+<hi>Report.</hi> As <hi>that</hi> without which (in the <hi>Hands</hi> you at
+preſent are) <hi>I</hi> ſee not how poſſibly you will ever
+<hi>arrive</hi> at a true <hi>Knowledge</hi> of the <hi>wretchedneſs</hi> of
+your <hi>Condition,</hi> even in the ſingle <hi>Point</hi> of your
+<hi>Revenue;</hi> which is the ſole <hi>Subject</hi> of it. Beſides what
+<hi>I</hi> have elſewhere noted, relating to the <hi>Moral Part:</hi> To
+which (at leaſt in the <hi>Reproachfulneſs</hi> of it) you will, <hi>I</hi>
+fear, find <hi>that</hi> to bear no other <hi>Proportion,</hi> than the
+<hi>Deficiency</hi> of <hi>Light</hi> at a <hi>Gloomy Noon,</hi> do's to that
+of the <hi>darkeſt Midnight.</hi>
+               </p>
+               <p>Nor can <hi>I</hi> permit my ſelf to let paſs unobſerved
+to you on this occa<g ref="char:EOLhyphen"/>ſion, what <hi>I</hi> have lately underſtood, touching
+the <hi>Difference</hi> now newly raiſed between the <hi>Court</hi> of
+<hi>Aldermen</hi> and this <hi>Houſe,</hi> upon the <hi>General Point</hi> of
+<hi>Subordinacy,</hi> and particularly in that of <hi>Accompting.</hi>
+               </p>
+               <p>Concerning the <hi>former</hi> of which; let me beg you, as One
+whoſe <hi>Searches,</hi> in this your <hi>Service,</hi> have made him more
+than ordinarily con<g ref="char:EOLhyphen"/>verſant in the <hi>History</hi> of your
+<hi>Hoſpital;</hi> not to be miſled to an <hi>Opinion contradictory</hi> to
+the <hi>Tenor</hi> of your own <hi>Books,</hi> and the <hi>Practice</hi> of
+your <hi>Predeceſſors,</hi> through all the <hi>Marks</hi> of
+<hi>Subiection</hi> incident to ſuch a <hi>Re<g ref="char:EOLhyphen"/>lation.</hi> And this from the
+very firſt day of our <hi>Inſtitution;</hi> confirm'd by our having at this
+hour no other <hi>Title</hi> to the <hi>Truſt</hi> we our ſelves are now
+exerciſing in this <hi>Place,</hi> than our <hi>Election</hi> and
+<hi>Appointment</hi> thereto from that <hi>Court.</hi>
+               </p>
+               <p>And for the <hi>latter,</hi> touchiug our <hi>Accompting</hi> to
+them; I beſeech You to conſider, <hi>Who</hi> it is, we would be thought to
+own Our ſelves <hi>accoun<g ref="char:EOLhyphen"/>table</hi> to, if not to thoſe we are
+<hi>entruſted</hi> by? Or, Would we give the <hi>World</hi> ground to
+<hi>think;</hi> that while we ſtand <hi>anſwerable</hi> for our being able
+<pb facs="tcp:151638:4"/> to convince all <hi>Gainſayers</hi> in the <hi>Matters</hi> of
+our <hi>Faith;</hi> and anſwer every <hi>Demand</hi> touching the
+<hi>Reaſon</hi> of our <hi>Hope;</hi> we would be exempt from an
+<hi>Accountableneſs</hi> to any body, for our <hi>Managements</hi> of
+<hi>Charity,</hi> that's <hi>Greater</hi> than <hi>Either</hi> of them?</p>
+               <p>
+                  <hi>True</hi> it is; That for the <hi>Difficulty</hi> made by
+Your <hi>Treaſurer</hi> and his <hi>Accountant</hi> in their Compliance with
+the late <hi>Orders</hi> of that <hi>Court,</hi> for their <hi>Signing</hi> and
+remitting thither under their <hi>Hands,</hi> the <hi>Accounts</hi> for<g ref="char:EOLhyphen"/>merly
+ſent them <hi>unſigned:</hi> There may be more <hi>Reaſon</hi> for it,
+than either <hi>Your ſelves</hi> are permitted to know, or that
+<hi>Court</hi> can yet conceive; as be<g ref="char:EOLhyphen"/>ing (I <hi>affirm</hi> to You) in no
+wiſe to be <hi>juſtified,</hi> when <hi>Signed.</hi> But as their
+<hi>Demand</hi> herein ſeems no otherwiſe reſtrained to theſe
+<hi>Accounts,</hi> than as they came to them <hi>
+                     <g ref="char:V">Ʋ</g>natteſted;</hi> nor
+<hi>Our ſelves</hi> to be thought, at this time of day, unprovided for
+rendring them full <hi>Satisfaction</hi> in this <hi>Par<g ref="char:EOLhyphen"/>ticular,</hi> after
+little leſs than two <hi>Years Notice</hi> given your Auditors, by the
+<hi>Treaſurers <hi>Reſignation</hi>
+                  </hi> of his <hi>Office,</hi> of a
+<hi>Thorough-State</hi> neceſſari<g ref="char:EOLhyphen"/>ly to be adjuſted of his
+<hi>Accounts,</hi> in order to Your <hi>Election</hi> of a
+<hi>Suc<g ref="char:EOLhyphen"/>ceſſor:</hi> Towards which nevertheleſs, I hear not of One
+<hi>Stroke</hi> yet ſtruck in <hi>November</hi> 1698, for ſo much as the
+<hi>Accompt</hi> of the <hi>Year</hi> 1697. So muſt that <hi>Gentleman</hi>
+be very little acquainted with the <hi>Practice</hi> of this
+<hi>Houſe<g ref="char:punc">▪</g>
+                  </hi> who knows not how much it has in all <hi>Ages,</hi> not
+only been ſubject to the <hi>Demands</hi> of the <hi>Lord <hi>Mayor</hi>
+                  </hi>
+and <hi>Court</hi> of <hi>Aldermen</hi> in this <hi>Particular;</hi> but have
+<hi>Themſelves</hi> made uſe of it in their <hi>Diſtreſſes,</hi> as
+their ſureſt and indeed only <hi>Reſort</hi> for their <hi>Supplys;</hi>
+I mean by their <hi>Applications</hi> to that <hi>Court,</hi> with their
+<hi>Accounts</hi> ſhewing the <hi>Reaſons</hi> of thoſe
+<hi>Diſtreſſes.</hi> Beſides that it is not only <hi>They,</hi> from
+whom alone (as before) we derive theſe our <hi>Truſts;</hi> but
+<hi>They</hi> alſo, who ſtand accountable to the <hi>Body Corporate</hi> of
+the <hi>City,</hi> as <hi>That</hi> alſo doth by ſolemn <hi>Covenants</hi>
+to the <hi>King,</hi> for our <hi>well-diſcharging</hi> the ſame.</p>
+               <p>Be pleaſed then to think of putting a ſpeedy <hi>End</hi> to
+this <hi>Diſpute,</hi> that muſt otherwiſe prove <hi>diſtructive</hi>
+of the very <hi>Foundation</hi> we are concern<g ref="char:EOLhyphen"/>ed for.</p>
+               <p>Nor let what is here <hi>offer'd</hi> You, loſe any of its
+<hi>Force,</hi> for the ſake of him that <hi>offers</hi> it. As being
+<hi>One,</hi> too well acquainted with other <hi>Sub<g ref="char:EOLhyphen"/>jects,</hi> more worthy
+his <hi>ſacrificing</hi> ſo much of the little <hi>Reſidue</hi> of his
+<hi>Time</hi> and <hi>private Study</hi> to, than this before us: Were it not,
+that he would be glad, to convert ſome part of the <hi>Leaſure <hi>God
+Almighty</hi>
+                  </hi> has been pleaſ<g ref="char:EOLhyphen"/>ed to bleſs the <hi>Evening</hi> of his
+<hi>Life</hi> with, to a <hi>Good</hi> ſo publickly meritori<g ref="char:EOLhyphen"/>ous, as he takes
+<hi>This</hi> to be: and is therefore grieved to find <hi>Marks</hi> of
+<hi>Hard<g ref="char:EOLhyphen"/>ſhip</hi> placed by you upon thoſe of your <hi>Servants,</hi> who
+can but be <hi>ſuſpected</hi> of having given any <hi>Aſſiſtance</hi>
+towards it; and that moſt of all on <hi>him,</hi> from whom of the whole
+number of your <hi>Clerks I</hi> have received the <hi>leaſt</hi> (as you may
+ſhortly have occaſion to ſee) though from <hi>None</hi> of them more,
+than by their <hi>Duty</hi> and ſpecial <hi>Order</hi> of <hi>Court</hi> they
+were obliged to; nor yet <hi>All</hi> that when put together, near ſo much in
+the moment of it, as from the <hi>Treaſurer</hi> himſelf and his
+<hi>Accountant,</hi> now lying by me under their Hands.</p>
+               <p>
+                  <hi>But</hi> when the <hi>Management</hi> of <hi>Publick
+Charities</hi> ſhall become a <hi>Buſi<g ref="char:EOLhyphen"/>neſs</hi> of <hi>Myſtery;</hi>
+it will be time for <hi>Good</hi> men to think of being their own
+<hi>Almoners.</hi> And <hi>I</hi> pray God, it prove not our
+<hi>Misfortune,</hi> to ſet the <pb facs="tcp:151638:4"/> 
+                  <hi>firſt <hi>Copy</hi>
+                  </hi>
+towards it; there ſeeming nothing left within my <hi>Vein</hi> (ſhould this
+my laſt <hi>Attempt</hi> with both <hi>Bodies,</hi> the <hi>Court</hi> of
+<hi>Aldermen <hi>I</hi>
+                  </hi> mean, and <hi>This,</hi> together fail) but a
+<hi>Royal Viſitation</hi> to prevent it.</p>
+               <p>With which; <hi>I</hi> do with the deepeſt <hi>Reſpect</hi>
+take my final <hi>leave</hi> of this ſort of <hi>Intercourſe</hi> between
+you and me on this <hi>Occaſion;</hi> remain<g ref="char:EOLhyphen"/>ing,</p>
+               <closer>
+                  <salute>Honour'd Gentlemen,</salute>
+                  <signed>Your moſt faithful and obedient <hi>Servant,</hi> S.
+Pepys.</signed>
+               </closer>
+            </div>
+            <div type="representation">
+               <head>
+                  <hi>A COPY</hi> of Mr. <hi>PEPYS</hi>'s fore<g ref="char:EOLhyphen"/>mentioned
+<hi>Repreſentation</hi> ſent to <hi>CHRIST-HOSPITAL</hi> near 12.
+<hi>Months</hi> ſince.</head>
+               <head type="sub">To the Honour'd Sir <hi>John Moor,</hi> Kt. and
+<hi>Preſident,</hi> and the rest of my Honour'd <hi>Friends,</hi> the
+<hi>Gover<g ref="char:EOLhyphen"/>nours</hi> of <hi>CHRIST-HOSPITAL,</hi> aſſembled in
+<hi>Court</hi>
+                  <date>this 17. of <hi>Decem.</hi> 1697.</date>
+               </head>
+               <opener>
+                  <dateline>York-Buildings
+<date>Decem. 17th, 1697.</date>
+                  </dateline>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>I Have receiv'd the <hi>Notice</hi> order'd me from your laſt
+<hi>Court</hi> of the <hi>10th. inſtant,</hi> touching the <hi>Reſpit</hi>
+then put to your <hi>Election</hi> of a new <hi>Treaſurer,</hi> upon the
+<hi>Want,</hi> (as it would ſeem) of my expected <hi>Re<g ref="char:EOLhyphen"/>port</hi> of the
+<hi>State</hi> of your <hi>Houſe.</hi>
+               </p>
+               <p>In <hi>anſwer</hi> whereto, and that the
+<hi>Conſequences</hi> (if any) of that <hi>De<g ref="char:EOLhyphen"/>lay,</hi> may not reſt upon
+this ſuppos'd <hi>Failure</hi> of mine; be pleas'd to be re<g ref="char:EOLhyphen"/>minded of your
+being expreſly <hi>advertis'd</hi> of the readineſs of that
+<hi>Report,</hi> by a Worthy <hi>Member</hi> of your <hi>Body,</hi> at a very
+full <hi>Court,</hi> upon the <hi>28th.</hi> of <hi>September</hi> laſt, now
+near three <hi>Months</hi> ſince; without the leaſt <hi>inti<g ref="char:EOLhyphen"/>mation</hi>
+                  <pb facs="tcp:151638:5"/> given me, either then or ſince, of your <hi>deſiring</hi> it
+from me, but rather the contrary, to <hi>this day.</hi>
+               </p>
+               <p>Nor durſt I, unask'd, take upon me the <hi>expoſing</hi> of
+it; nor ſhall even <hi>now,</hi> of more than may be uſeful to the
+ſpecial <hi>Purpoſe</hi> for which you now demand it, relating to the
+<hi>Treaſurer.</hi> And I pray <hi>God,</hi> the bringing even this, all at
+once, to a <hi>Publick <hi>Court,</hi>
+                  </hi> may be follow'd with no
+<hi>inconvenience.</hi> But <hi>You</hi> have requir'd it, and I <hi>obey;</hi>
+praying You to accept of what I have here with all <hi>reſpect</hi> to offer
+You thereon, in theſe few and ſuccinct <hi>Propoſitions.</hi>
+               </p>
+               <p>
+                  <hi>1ſt.</hi>—<hi>That</hi> by the firſt <hi>General
+<hi>Audit,</hi>
+                  </hi> after your preſent <hi>Trea<g ref="char:EOLhyphen"/>ſurer's
+<hi>Acceſſion</hi>
+                  </hi> to his <hi>Office</hi> in 1683. (for I think it
+<hi>enough</hi> on my part, and <hi>no more</hi> than ſo on yours, that I go
+ſo far back in my <hi>Retroſpecti<g ref="char:EOLhyphen"/>on</hi>) he became charged with a
+<hi>Ballauce</hi> in <hi>Caſh</hi> of 3300 <hi>l.</hi>
+               </p>
+               <p>
+                  <hi>2ly.</hi>—<hi>That</hi> upon a ſtrict
+<hi>Collating</hi> of the <hi>Nett Receipts</hi> of each <hi>Year,</hi> from
+that time to the <hi>Cloſe</hi> of the <hi>Year</hi> 1696, or according to
+the peculiar <hi>Stile</hi> of this <hi>Houſe,</hi> to <hi>Midſummer</hi>
+1697. I find to have been <hi>Re<g ref="char:EOLhyphen"/>ceived</hi> and <hi>Expended</hi> of the
+<hi>Stock</hi> of the <hi>Poor</hi> within this <hi>Houſe</hi> (that
+<hi>Bal<g ref="char:EOLhyphen"/>lance</hi> included) above 175000 <hi>l.</hi>
+               </p>
+               <p>
+                  <hi>3ly.</hi>—<hi>That</hi> neither, of this <hi>Sum,</hi>
+nor of any <hi>Part</hi> of it, nor of the <hi>State</hi> of your
+<hi>Revenue</hi> in general; has there ever been any one
+<hi>Repre<g ref="char:EOLhyphen"/>ſentation</hi> made to, or <hi>Cognizance</hi> had of it by the
+Lord <hi>Mayor</hi> and <hi>Body Corporate</hi> of the <hi>City</hi> (the Only
+<hi>Governors</hi> of the <hi>Hoſpital-Revenues)</hi> though peculiarly
+<hi>Charg'd</hi> with an <hi>Accountableneſs</hi> for our
+<hi>Manage<g ref="char:EOLhyphen"/>ments</hi> of the ſame, to the beſt <hi>Benefit</hi> of the
+<hi>Poor;</hi> But ſo much the <hi>con<g ref="char:EOLhyphen"/>trary,</hi> that I find not one
+<hi>Account</hi> thereof to have been ever reported even to <hi>Your
+ſelves,</hi> from your <hi>Committee</hi> of <hi>Auditors;</hi> much leſs
+<hi>con<g ref="char:EOLhyphen"/>troll'd, approv'd,</hi> and confirm'd by You in <hi>Court</hi> (as all
+<hi>Acts</hi> of <hi>Com<g ref="char:EOLhyphen"/>mittees,</hi> eſpecially in <hi>Fundamentals</hi>
+like this, ought to be) to this <hi>day.</hi>
+               </p>
+               <p>
+                  <hi>4ly.</hi>—<hi>That</hi> it doth not appear to
+<hi>me,</hi> either from your <hi>Books,</hi> or my beſt informations from
+your <hi>Clerks</hi> and <hi>Accomptants,</hi> that any <hi>Share</hi> of the
+<hi>Controlling</hi> and <hi>Auditing-Part</hi> of your ſaid
+<hi>Accounts,</hi> is regularly Executed, by a <hi>Quorum</hi> of that
+<hi>Committee</hi> duely ſummon'd thereto, ſaving the laſt <hi>Act</hi>
+of it only, I mean, the <hi>Signing</hi> of it <hi>de bene eſſe,</hi> after
+being <hi>ingroſs'd.</hi> Which (and that <hi>alone</hi>) appears indeed to
+have a ſolemn <hi>Day</hi> and <hi>Entertainment</hi> aſſign'd for it, at
+the Charge of the <hi>Hoſpital.</hi>
+               </p>
+               <p>
+                  <hi>5ly.</hi>—<hi>That</hi> in <hi>conſequence</hi> of
+this, and of the general <hi>Order</hi> of thoſe your <hi>Accounts,</hi> I
+have not found any one <hi>Year</hi>'s ſo digeſted, as that by it
+<hi>alone,</hi> a ſincere and ſtrict <hi>Enquirer</hi> could be either
+<hi>fully</hi> or <hi>truly</hi> ap<g ref="char:EOLhyphen"/>priſed of the <hi>General State</hi> of
+the <hi>Houſe's Revenue;</hi> or ſo, as to be a<g ref="char:EOLhyphen"/>ble, though poſſibly
+<hi>true,</hi> to ſatisfy himſelf in its being <hi>ſo.</hi>
+               </p>
+               <p>
+                  <hi>6ly.</hi>—<hi>That</hi> as one <hi>Evidence</hi> only
+of this laſt <hi>Truth;</hi> You may be pleas'd with very little
+<hi>difficulty,</hi> to inform <hi>Your Selves,</hi> that in as ill a
+<hi>Condition</hi> as this <hi>Houſe</hi> is on all hands known to be; there
+is not any one <hi>Year</hi> (as far as my ſtricteſt <hi>inſpections</hi>
+can enlighten me) wherein Your <hi>General Account</hi> thereof ſo
+<hi>audited,</hi> has not declared You <hi>Maſters</hi> both of a
+<hi>Remain</hi> of <hi>Caſh</hi> and <hi>Ballance</hi> in <hi>Stock,
+<hi>frequently</hi>
+                  </hi> to above 10. <hi>ſometimes</hi> 11. and 12. and one
+<hi>Year</hi> with <hi>another</hi> to above 8000 <hi>l.</hi> (all
+<hi>Debts</hi> provided for) from the very firſt <hi>Entrance</hi> of this
+<hi>Gentleman</hi> up<g ref="char:EOLhyphen"/>on his <hi>Treaſurerſhip,</hi> to this
+<hi>Day.</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:151638:5"/>
+                  <hi>7ly.</hi>—<hi>That</hi> notwithſtanding
+the <hi>175000l. received</hi> as before; with the continu'd
+<hi>Repreſentations</hi> of our being always thus amply in <hi>Stock;</hi> We
+have at this day, not only <hi>Complaints</hi> hourly ſhower'd on Us, as well
+of our <hi>Wants</hi> at <hi>Home,</hi> as the <hi>Diſtreſſes</hi> of our
+<hi>Nurſes</hi> and <hi>Children Abroad;</hi> but (as far as your own
+<hi>Books</hi> may in any wiſe be rely'd-on) ſtand <hi>indebted</hi> at
+this very hour, to the <hi>Wills</hi> of our <hi>Dead,</hi> and
+<hi>Appoint<g ref="char:EOLhyphen"/>ments</hi> of our <hi>Living <hi>Benefactors,</hi>
+                  </hi> and to
+others our <hi>Creditors</hi> (beyond all We have in <hi>View</hi> towards
+diſcharging the ſame) to the <hi>Value,</hi> with the <hi>Intereſt</hi>
+upon both, of above <hi>35000l.</hi>
+               </p>
+               <p>
+                  <hi>8ly.</hi>—<hi>That</hi> as <hi>ſurpriſing</hi> as
+this may appear at its firſt <hi>Opening</hi> to this <hi>Court;</hi> I am
+well <hi>convinc'd,</hi> that it will not do ſo, to any who ſhall
+<hi>ap<g ref="char:EOLhyphen"/>ply</hi> themſelves with the ſame <hi>Attention</hi> I have done, to
+the noting and conſidering all thoſe <hi>unneceſſary, unprecedented,
+waſteful</hi> and <hi>Arbitrary Me<g ref="char:EOLhyphen"/>thods,</hi> to be found in the
+<hi>Management</hi> of Our <hi>Expences,</hi> wholly inconſi<g ref="char:EOLhyphen"/>ſtent both
+with the <hi>Orders</hi> and <hi>Ends</hi> of our <hi>Pious
+<hi>Benefactors.</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>9ly.</hi>—<hi>That</hi> of this <hi>Debt</hi> of 35000
+<hi>l.</hi> there reſts no leſs than 19500 <hi>l.</hi> ſpecially owing to
+the <hi>Royal Foundation;</hi> and of <hi>that,</hi> above 1300 <hi>l.
+unlay'd-out,</hi> of the <hi>Sums</hi> annually received by Us of the
+<hi>King's <hi>Bounty</hi>
+                  </hi> out of the <hi>Exchequer,</hi> for putting
+forth his <hi>Children</hi> to the <hi>Seas; <hi>notwithſtanding</hi>
+                  </hi>
+what you were the laſt Year <hi>miſled,</hi> to the aſſerting and
+impoſing on the <hi>Lords</hi> of the <hi>Treaſury</hi> upon that
+<hi>Subject,</hi> to the <hi>contrary.</hi> And this; without any one
+<hi>End</hi> of the whole <hi>Inſtitution</hi> an<g ref="char:EOLhyphen"/>ſwer'd, or likely to be,
+under our preſent <hi>Managements;</hi> Or any one <hi>Year</hi> lately
+paſs'd, wherein our <hi>Printed <hi>Reports</hi>
+                  </hi> thereof will bear
+<hi>Examina<g ref="char:EOLhyphen"/>tion;</hi> any more than the preſent <hi>Year</hi> is likely to
+produce <hi>One <hi>Child</hi>
+                  </hi> of its whole <hi>Number,</hi> either duely
+<hi>Sent Abroad,</hi> or <hi>qualified</hi> for it as he ought to be; While the
+<hi>Seaſon</hi> too is ſo near at hand, when Our <hi>Performances</hi>
+there<g ref="char:EOLhyphen"/>in ſhould <hi>intitle</hi> Us to another <hi>Year's
+<hi>Payment.</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>10ly.—Laſtly, <hi>That</hi>
+                  </hi> beſides this
+<hi>Debt</hi> of 35000 <hi>l.</hi> thus lying on Us; We labour under a further
+<hi>Annual <hi>Charge</hi>
+                  </hi> amounting (by the <hi>Medium</hi> of Our laſt
+<hi>Seven</hi> Years Expences) to above 14600 <hi>l. per. Ann.</hi> And this;
+without Ought in preſent <hi>View,</hi> towards either <hi>Clearing</hi> the
+<hi>One,</hi> or Supporting the <hi>Other,</hi> but a <hi>Revenue</hi> We
+<hi>our ſelves</hi> publiſh'd but at <hi>Eaſter</hi> laſt in
+<hi>Print,</hi> to be little more than a <hi>Moiety</hi> of our
+<hi>Neceſſary</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>navoidable <hi>Charge.</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>Which</hi> deing ſo; and for the better applying the
+ſame to the <hi>Oceaſion</hi> for which you now call for it; it remains
+only, that I ſubjoyn thereto theſe <hi>Three</hi> Short
+<hi>Reflections.</hi>
+               </p>
+               <p>
+                  <hi>1ſt.</hi>—<hi>That</hi> before the
+<hi>Addreſs,</hi> (which I preſume) will be of <hi>Courſe</hi> on this
+Occaſion made, to the <hi>Lord Mayor</hi> and <hi>City,</hi> for their
+<hi>Concurrence</hi> to the <hi>Diſcharge</hi> of the preſent, and
+<hi>Admiſſion</hi> of another <hi>Treaſurer;</hi> it ſeems
+<hi>indiſpenceable</hi> on our <hi>Parts,</hi> that they be throughly
+<hi>appriſed</hi> of the <hi>contents</hi> of this <hi>Paper;</hi> in order
+to their conſidering, what may be <hi>expedient</hi> to be firſt done for
+their own needful <hi>Security</hi> there<g ref="char:EOLhyphen"/>in. And this the rather; for that,
+<hi>whatever</hi> they may think fit to do with reſpect to any other
+<hi>Article</hi> of ir; I hold my ſelf bound to tell you, that the
+<hi>Intereſt</hi> which <hi>my ſelf</hi> in particular bear, in all that
+concerns the <hi>Mathematick Foundation</hi> (with regard no leſs to the
+Glorious <hi>End</hi> of it, in the <hi>Advancement</hi> of the
+<hi>Navigation</hi> of <hi>England,</hi> than my own <pb facs="tcp:151638:6"/> ſpecial
+<hi>Misfortune,</hi> in contributing what I did, to the unhappy <hi>Choice</hi>
+made by my <hi>Royal Maſters</hi> its <hi>Founders,</hi> of the Place they
+lodg'd the <hi>Truſt</hi> of it in) will oblige me, as a ſtanding Piece of
+<hi>Duty</hi> to the <hi>Crown,</hi> to inſiſt upon a ſtrict
+<hi>Account</hi> to be given, of ſo unexampl'd a <hi>Miſcariage,</hi> as
+that of this their <hi>Foundation,</hi> not yet 25. <hi>Year-old,</hi> yet
+every <hi>Penny</hi> of its <hi>Endowment</hi> already ſpent, and the
+<hi>Support</hi> of it thrown upon, and at this day wholly <hi>born,</hi> out
+of the <hi>Common Stock</hi> of of our <hi>otherwiſe</hi> ſufficiently
+wretched <hi>Orphans,</hi> who have no <hi>relation</hi> to it. While at the
+ſame time, no ſingle <hi>Inſtance</hi> is to be ſhewn, of the
+<hi>End</hi> of its <hi>Inſtitution</hi> anſwer'd, within the whole time of
+our preſent <hi>Re<g ref="char:EOLhyphen"/>troſpection.</hi>
+               </p>
+               <p>
+                  <hi>2ly.</hi>—<hi>That</hi> if in this <hi>Paper</hi>
+ought appears, whereto either the <hi>Trea<g ref="char:EOLhyphen"/>ſurer,</hi> or any other
+<hi>Member</hi> of this <hi>Society,</hi> ſhall ſee reaſon to
+<hi>except;</hi> and exhibiting the ſame to this <hi>Court,</hi> ſhall have
+it communicated thence to me with their <hi>Approval;</hi> I ſhall moſt
+<hi>readily,</hi> from Your own <hi>Books</hi> and <hi>Regiſters,</hi>
+expoſe to you the <hi>Grounds</hi> of what <hi>I</hi> have aſſerted
+herein; as <hi>One,</hi> who am not conſcious (though yet <hi>fallible</hi>)
+of any one ſingle <hi>Prevarication</hi> from, or <hi>Aggravation</hi> of the
+<hi>Truth,</hi> in what <hi>I</hi> have here offer'd You.</p>
+               <p>
+                  <hi>3ly.—Finally, <hi>That</hi>
+                  </hi> as <hi>unhappy</hi>
+as by this my <hi>Draught</hi> of it, the <hi>State</hi> of your
+<hi>Houſe</hi> muſt neceſſarily be thought to be, with reſpect to its
+<hi>Revenue, Charge</hi> and <hi>Debt.</hi> I cannot but in
+<hi>faithfulneſs</hi> thereto further tell you, that it is yet the very
+<hi>beſt</hi> Side of the <hi>Proſpect</hi> I have to give You of its
+<hi>Condition,</hi> in the other <hi>Parts</hi> of my <hi>Report.</hi> And that
+there<g ref="char:EOLhyphen"/>fore I ſhall not dare to <hi>truſt</hi> either my <hi>ſelf</hi> or
+this <hi>Court,</hi> with the im<g ref="char:EOLhyphen"/>mediate <hi>Expoſing</hi> of it, though
+Originally deſigned for <hi>You;</hi> as deeming it on many
+<hi>Conſiderations,</hi> more <hi>becoming</hi> me, and more
+<hi>behoofeful</hi> to the <hi>Service</hi> of the <hi>Houſe</hi> and its
+<hi>Poor;</hi> that I rather deliver it into the <hi>Hands,</hi> and ſubmit
+it to the <hi>Diſpoſal</hi> of <hi>Thoſe,</hi> who as ſtanding
+<hi>primarily</hi> accountable for Our <hi>Managements</hi> to the
+<hi>King,</hi> are intitled to <hi>our aceount<g ref="char:EOLhyphen"/>ing</hi> for the ſame
+<hi>firſt</hi> to <hi>Them:</hi> I mean, my Lord <hi>Mayor</hi> and the
+foremen<g ref="char:EOLhyphen"/>tion'd <hi>Body</hi> of the <hi>City;</hi> from whom <hi>alone,</hi> or
+in their <hi>Failure</hi> from a <hi>Royal Viſitation,</hi> the ſame (if
+<hi>ever</hi>) muſt receive its <hi>Remedy.</hi>
+               </p>
+               <closer>
+                  <hi>I am,</hi>
+                  <salute>Gentlemen,</salute>
+                  <signed>
+                     <hi>Your moſt humble and faithful Servant,</hi> S.
+Pepys.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="summons">
+            <pb facs="tcp:151638:6"/>
+            <head>The <hi>Summons</hi> to the forementioned <hi>Court</hi> at
+<hi>Chriſt-Hoſpital.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOur Worſhip is earneſtly deſired to be preſent at a
+<hi>Court</hi> to be hol<g ref="char:EOLhyphen"/>den in <hi>Chriſt-Hoſpital</hi> upon
+<hi>Friday</hi> next, being the 25th of this inſtant <hi>November,</hi> at 3
+a Clock in the Afternoon preciſely; for the due conſidering two <hi>Printed
+Papers</hi> lately preſented by Mr. <hi>Pepys</hi> to the Right Honourable
+the <hi>Lord Mayor</hi> and <hi>Court of Aldermen,</hi> and to the
+<hi>Court</hi> held at this <hi>Houſe</hi> the 21ſt inſtant, <hi>
+                  <g ref="char:V">Ʋ</g>pon
+the preſent ſtate of</hi> Chriſt-Hoſpital.</p>
+            <closer>
+               <signed>William Parrey, <hi>Clerk.</hi>
+               </signed>
+               <dateline>
+                  <hi>Chriſt-Hoſpital</hi>
+                  <date>24 Nov. 1698.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To the Right Honourable Sir <hi>Francis Child</hi> Lord
+<hi>Mayor,</hi> and the <hi>Court</hi> of <hi>Aldermen.</hi>
+            </head>
+            <argument>
+               <p>[Accompanying Copies of the precedeing Papers.]</p>
+            </argument>
+            <opener>
+               <dateline>York-Buildings,
+<date>
+                     <hi>Tueſday,</hi> Dec. 6th. 1698.</date>
+               </dateline>
+               <salute>My Lord and Gentlemen,</salute>
+            </opener>
+            <p>AS <hi>fully</hi> as I had determined againſt interrupting
+<hi>this Court</hi> or <hi>my<g ref="char:EOLhyphen"/>ſelf,</hi> with the <hi>Interchange</hi> of
+more <hi>Papers;</hi> I hold my ſelf ac<g ref="char:EOLhyphen"/>countable to you for the
+<hi>Iſſue</hi> of your late <hi>Allowance</hi> of my com<g ref="char:EOLhyphen"/>municating thoſe
+<hi>I</hi> laſt ſent you, to the <hi>Gentlemen</hi> of
+<hi>Chriſt-Hoſpital.</hi> Which I did; to the procuring the <hi>Call</hi>
+of an Extraordinary <hi>Court,</hi> for the <hi>Conſideration</hi> of the
+ſame. <hi>Duplicates</hi> of which <hi>Tranſaction,</hi> with a
+<hi>Copy</hi> of the <hi>Summons</hi> it ſelf provided thereto, I think it
+for your <hi>Service</hi> to lay before you; together with the Iſſue of the
+<hi>Whole,</hi> which you may pleaſe to take as
+follows.—<hi>Viz.</hi>
+            </p>
+            <p>
+               <hi>1ſt.</hi>—The Number preſent at this <hi>Court</hi>
+of its near four Hun<g ref="char:EOLhyphen"/>dred <hi>Governours</hi> was Fifty ſix. <hi>Which,</hi>
+tho <hi>ſhort</hi> of what I have known attending the <hi>Choice</hi> of a
+<hi>Beadle,</hi> a <hi>Porter,</hi> or ſuch on<g ref="char:EOLhyphen"/>ly Occaſion; was yet
+<hi>double</hi> the <hi>Appearance</hi> ſeen at <hi>Ordinary
+<hi>Courts.</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>2ly,</hi>—As <hi>full</hi> nevertheleſs as it was, no
+<hi>Part</hi> of the <hi>Work</hi> it was ſpecially called for, was either
+<hi>done,</hi> or had any <hi>Entry</hi> made towards it: the <hi>Papers</hi>
+themſelves, in the full three <hi>Hours</hi> of its <hi>ſitting,</hi> not
+having had ſo much as a <hi>Reading-Time</hi> allowed them, nor any other
+<hi>aſſigned</hi> for the doing it.</p>
+            <p>
+               <pb facs="tcp:151638:7" rendition="simple:additions"/>
+               <hi>3ly.</hi>—The <hi>Matter</hi> mainly
+handled therein, was that of their <hi>Treaſurer's</hi> being required by
+this <hi>Court</hi> to Sign his <hi>Accounts,</hi> and preſent them back
+thereto, when <hi>Signed.</hi> In which <hi>I</hi> had the good
+<hi>Fortune</hi> of offering theſe <hi>Gentlemen,</hi> together with the
+forementioned <hi>Papers,</hi> ſome <hi>Thoughts</hi> of mine upon the
+<hi>Deference</hi> due to <hi>You,</hi> both from <hi>that</hi> and every
+<hi>other <hi>Hoſpital;</hi>
+               </hi> ſo as to ob<g ref="char:EOLhyphen"/>tain the <hi>Reverſal</hi>
+of their former <hi>Reſolution</hi> in oppoſing it. But not till by the
+length of the <hi>Conteſt,</hi> their Fifty ſix were reduc<g ref="char:EOLhyphen"/>ed to Twenty
+nine; and not then neither, upon a <hi>Diviſion,</hi> by any greater
+<hi>Majority</hi> than of <hi>Three.</hi> And this too in the <hi>Caſe</hi>
+of an <hi>Account<g ref="char:punc">▪</g>
+               </hi> wherein not their <hi>own <hi>Orders</hi>
+               </hi> any
+more than <hi>yours,</hi> have
+<floatingText xml:lang="eng">
+                  <body>
+                     <div type="docket_title">
+                        <p>Mr. PEPYS, <hi>upon the State of
+Chriſt-Hoſpital.</hi>
+                        </p>
+                        <p>
+                           <hi>Paper III.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText> been of force with either <hi>Accountant</hi> or
+<hi>Auditors,</hi> in more than two <hi>years,</hi> to produce any
+<hi>Compliance,</hi> or (for <hi>ought I</hi> can yet hear or ſee) any
+<hi>Preparation, Diſpoſition,</hi> or even <hi>Capacity</hi> towards
+it.</p>
+            <p>
+               <hi>What</hi> reſts there then for me to ſay, either to
+<hi>you, My Lord</hi> and <hi>Gentle<g ref="char:EOLhyphen"/>men,</hi> or <hi>My-ſelf</hi> in this
+<hi>Cauſe;</hi> more than the recommending <hi>it</hi> to <hi>you,</hi> as I
+moſt earneſtly therefore do? Either inſtantly to <hi>exert</hi> the
+<hi>Authority</hi> thus aſſerted by me in <hi>your <hi>Right,</hi>
+               </hi> and
+ſince ſubmitted to my honour'd <hi>Friend <hi>Sir Robert Clayton,</hi>
+               </hi>
+and your <hi>learned Council,</hi> with the <hi>Grounds</hi> of my doing ſo:
+to the end both <hi>you</hi> and <hi>I</hi> may have the <hi>Satisfaction</hi>
+of foreſeeing ſome <hi>Effect</hi> of what we are <hi>now</hi> doing,
+towards the <hi>Remedying</hi> no leſs than <hi>Aſcertaining</hi> the
+<hi>Evils</hi> we are in purſuit of, on behalf of our <hi>Orphans.</hi> Or
+leave me to the <hi>Method</hi> I have heretofore com<g ref="char:EOLhyphen"/>municated by
+<hi>purpoſe</hi> to you of reſorting to, by a <hi>Royal Viſitation.
+<hi>Which</hi>
+               </hi> from the <hi>Proof</hi> I lately gave you of it, in the
+<hi>Caſe</hi> of <hi>St. Ca<g ref="char:EOLhyphen"/>tharines; <hi>We</hi>
+               </hi> are well aſſured,
+both <hi>can</hi> and <hi>will</hi> make it ſelf equally <hi>effectual,</hi>
+to <hi>them</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> in <hi>Both. I am</hi>
+            </p>
+            <closer>
+               <salute>
+                  <hi>My</hi> Lord <hi>and</hi> Gentlemen,</salute>
+               <signed>
+                  <hi>Your moſt faithful and moſt obedient Servant,</hi>
+S. Pepys.</signed>
+            </closer>
+         </div>
+         <div n="Samuel Pepys to governors of Christ-Hospital" type="letter">
+            <pb facs="tcp:151638:7"/>
+            <head>Mr. <hi>PEPYS</hi> To the <hi>Preſident,</hi> and
+<hi>Governours</hi> of <hi>CHRIST-HOSPITAL</hi> upon the <hi>Preſent
+State</hi> of the ſaid <hi>HOSPITAL.</hi>
+            </head>
+            <head type="sub">To the Honour'd Sir <hi>John Moor,</hi> Kt. and
+<hi>Preſident,</hi> and the rest of my Honour'd <hi>Friends,</hi> the
+<hi>Gover<g ref="char:EOLhyphen"/>nours</hi> of <hi>CHRIST-HOSPITAL.</hi>
+            </head>
+            <opener>
+               <dateline>York-Buildings.
+<date>January 25th. 1698 / 9.</date>
+               </dateline>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>LET not (I beg you) my <hi>Appearance</hi> here yet once more as I
+now do, be imputed to any <hi>Satisfaction</hi> I have in the
+<hi>uneaſineſs</hi> of this <hi>Court,</hi> whoſe <hi>Honourer</hi> I
+truly am; nor yet to the <hi>Want</hi> of where<g ref="char:EOLhyphen"/>with otherwiſe to employ
+every <hi>Hour</hi> of my <hi>Life,</hi> more to my own <hi>Con<g ref="char:EOLhyphen"/>tent;</hi> but
+to the Sincerity of that <hi>Concernment</hi> for the <hi>Proſperity</hi> of
+this <hi>Houſe,</hi> which I ſhall always bear about me, while
+<hi>They</hi> at leaſt who firſt called me to it (My Lord <hi>Mayor,</hi> I
+mean, and <hi>Court</hi> of <hi>Aldermen)</hi> ſhall think fit to
+<hi>ſuſpend</hi> the <hi>Delivering</hi> me of the <hi>Share</hi> I yet
+hold, as their <hi>Servant,</hi> in the <hi>Charge</hi> of it. A
+<hi>Favour</hi> I have been long their <hi>Suitor</hi> for, and ſhould
+thankfully acknowledge any <hi>Aſſiſtance</hi> from this <hi>Court</hi>
+towards it.</p>
+            <p>Not that it is my <hi>Purpoſe</hi> to trouble You with ought I
+have at any time <hi>already</hi> laid before You: But what alone You have
+<hi>Your ſelves</hi> been pleaſed to adminiſter <hi>freſh
+<hi>Subject</hi>
+               </hi> to me for, ſince the <hi>Date</hi> of my laſt. And
+particularly,</p>
+            <p>
+               <hi>1ſt.</hi>—In the <hi>
+                  <g ref="char:V">Ʋ</g>nconcernedneſs</hi>
+wherewith this <hi>Court</hi> is ſtill pleas'd (after all I have been able to
+<hi>inculcate</hi> concerning it) to <hi>over-look</hi> the making-up of your
+<hi>Publick <hi>States</hi>
+               </hi> and <hi>Liſts</hi> of the <hi>Children</hi>
+of the <hi>Royal Foundation,</hi> annually requir'd from You by the
+<hi>King,</hi> and ex<g ref="char:EOLhyphen"/>preſsly calculated for the <hi>Service</hi> of the
+<hi>Crown.</hi> Whereof not <hi>One</hi> has <pb facs="tcp:151638:8"/> now for ſome Years
+paſt, been <hi>compoſed</hi> with the <hi>Integrity</hi> becoming the
+<hi>Diſpenſers</hi> of ſo <hi>Sacred</hi> and <hi>Princely</hi> a
+<hi>Charity.</hi> Nor of them all; any <hi>One</hi> ſo little
+<hi>juſtifyable,</hi> as that which was laſt deliver'd as Your
+<hi>New-Years-Gift</hi> into the <hi>King</hi>'s Own Hand by Your
+<hi>Treaſurer</hi>'s, in the Name not only of the <hi>Preſident</hi> and
+<hi>Body</hi> of us the <hi>Governours</hi> of this <hi>Hoſpital,</hi> but of
+the Lord <hi>Mayor</hi> alſo of this <hi>City,</hi> the <hi>Firſt
+Truſtee</hi> of the <hi>Crown</hi> for that <hi>Foundation.</hi>
+            </p>
+            <p>Which how far his <hi>Lordſhip</hi> or this <hi>Court</hi>
+ſhall think fit to ſit-down<g ref="char:EOLhyphen"/>with, I <hi>ask</hi> not; but hold it my
+<hi>Duty</hi> to make (as I hereby do) my own moſt ſolemn
+<hi>Proteſt</hi> againſt it; as againſt a <hi>Paper,</hi> neither
+<hi>ſincere,</hi> nor <hi>true;</hi> but (as ſuch) moſt injurious to the
+<hi>Honour</hi> both of <hi>Hoſpital</hi> and <hi>City.</hi>
+            </p>
+            <p>
+               <hi>2ly.</hi>—In your arraigning the <hi>Credit</hi> of your
+own <hi>Dealings</hi> (beyond all that could be offer'd to it from without
+<hi>Doors</hi>) in the <hi>Publick <hi>Review</hi>
+               </hi> lately had by Your
+<hi>Order,</hi> of that <hi>One Chapter</hi> of Your <hi>Treaſurer's
+<hi>Accompt</hi>
+               </hi> which ſpecially relates to that <hi>Foundation.</hi> An
+<hi>Accompt,</hi> that after a <hi>Demand</hi> of more than two <hi>Years</hi>
+ſtanding, and as long a <hi>Preparation,</hi> has been once <hi>actually
+laid</hi> (as from this <hi>Houſe)</hi> before the <hi>Court</hi> of Lord
+<hi>Mayor</hi> and <hi>Aldermen;</hi> with <hi>Copies</hi> of it gone abroad,
+and <hi>one</hi> of them now in <hi>my Hand.</hi> And this <hi>Review</hi>
+executed, not by the <hi>Body</hi> of Your <hi>Auditors,</hi> nor yet of
+thoſe of them whoſe <hi>Hands</hi> lie originally at <hi>Stake</hi> for the
+<hi>Truth</hi> of it; But by a <hi>Junto</hi> of the <hi>Treaſurer's</hi>
+ſingle <hi>Appoint<g ref="char:EOLhyphen"/>ment:</hi> of whom the <hi>Greater</hi> Part
+<hi>ſuch,</hi> as appear not to have aſſiſted at any <hi>One
+<hi>Audit,</hi>
+               </hi> within the whole <hi>Time</hi> of his
+<hi>Treaſurerſhip;</hi> nor now <hi>diſpos'd</hi> (for ought I hear) to
+aſſert under their <hi>Hands</hi> the <hi>Truth</hi> of what they have been
+ſo doing, and are this day deſign'd to give You their <hi>Report</hi> of.
+<hi>A Proceeding</hi> moſt <hi>hazardous,</hi> if not of <hi>certain
+injury</hi> to the <hi>Honour</hi> of this <hi>Place;</hi> by adding to the
+Difficulty of <hi>juſtifying</hi> this Double <hi>Accompt,</hi> even where
+they <hi>agree;</hi> the yet greater of <hi>reconciling</hi> them, in what they
+<hi>differ.</hi>
+            </p>
+            <p>Which being the <hi>Caſe;</hi> the moſt effectual
+<hi>Proof</hi> I can hope to give You of my <hi>Solicitouſneſs</hi> for the
+<hi>Credit</hi> of this <hi>Court,</hi> againſt the <hi>Enqui<g ref="char:EOLhyphen"/>ries</hi> of a
+yet <hi>Higher Form</hi> to be expected into this and every other
+<hi>Arti<g ref="char:EOLhyphen"/>cle</hi> of your <hi>Treaſurer's Accompts;</hi> where not his
+<hi>Hand</hi> only (as now) but his <hi>Oath</hi> alſo and his
+<hi>Accomptant's</hi> will be held little enough to gain them
+<hi>Admiſſion:</hi> is the directing you to the <hi>Worthy
+<hi>Members</hi>
+               </hi> of this <hi>Body,</hi> whoſe ſingular
+<hi>Applications</hi> to, and long <hi>Inſpection</hi> into the Buſineſs
+of your <hi>Compting-Houſe,</hi> do eſpecially intitle them to the
+<hi>Charge</hi> of ſeeing <hi>Right</hi> done both to <hi>Themſelves,</hi>
+to you, and to the <hi>Poor</hi> therein,-<hi>viz.</hi>
+               <list>
+                  <item>Sir Mat. Andrews. </item>
+                  <item>Sir Will. Ruſſel. </item>
+                  <item>Mr. Stroud. </item>
+                  <item>Sir Edm. Turner. </item>
+                  <item>Mr. Lockington. </item>
+                  <item>Mr. Foſter.</item>
+               </list> Who having, <hi>among them,</hi> been at the <hi>Audit</hi>
+of, and <hi>warranted</hi> by their <hi>Signing,</hi> every <hi>Accompt</hi>
+(from firſt to laſt) of the preſent <hi>Treaſurer;</hi> have therein
+done more than any like <hi>Number,</hi> or even the whole re<g ref="char:EOLhyphen"/>maining
+<hi>Ninety</hi> of your <hi>Committee</hi> of <hi>Auditors.</hi>
+            </p>
+            <p>Nor, for the <hi>ſame reaſon,</hi> ought <hi>I</hi> to neglect
+the noting to you the no leſs <hi>Worthy <hi>Gentlemen,</hi>
+               </hi> to whoſe
+<hi>eight</hi> Months <hi>Labour,</hi> and ſpecial <hi>Influence,</hi>
+ſignaliz'd at your late <hi>Select Committee</hi> for the <hi>State</hi>
+               <pb facs="tcp:151638:8"/> of your <hi>Houſe,</hi> You ſtand moſt <hi>indebted;</hi>
+and for the advantageous <hi>Re<g ref="char:EOLhyphen"/>port</hi> they are pleas'd at this very day to
+entertain the <hi>World</hi> with, of it—<hi>viz.</hi>
+               <list>
+                  <item>Mr. Midgley.</item>
+                  <item>Mr. St-Amand.</item>
+                  <item>Doctor Carr.</item>
+                  <item>Mr. Lane.</item>
+                  <item>Mr. Boddington.</item>
+                  <item>Mr. Mallory.</item>
+               </list> Upon <hi>whom</hi> alſo <hi>I</hi> do <hi>myſelf</hi>
+chiefly rely, for the <hi>Convictions</hi> promis'd me, of the <hi>Errors</hi>
+of my own leſs grateful <hi>Computations</hi> touching the ſame: When (by
+the Delivery of this <hi>Accompt</hi> of Yours to the <hi>Court</hi> of
+<hi>Aldermen)</hi> You ſhall become poſſeſs'd of that <hi>Report</hi>
+of mine lying with <hi>them,</hi> by which you will be admitted to ſuch a
+<hi>View</hi> of our <hi>Wretchedneſs,</hi> as was never yet <hi>expos'd</hi>
+to, nor is (<hi>I</hi> fear) <hi>ever</hi> likely to be otherwiſe come-at, by
+this <hi>Court.</hi>
+            </p>
+            <p>On which <hi>Score,</hi> and that no <hi>Time</hi> may be loſt
+in your <hi>Arrival</hi> there<g ref="char:EOLhyphen"/>at; let me once more beg Your haſtening the
+<hi>Removal</hi> of the <hi>Impediment</hi> given thereto, by your
+<hi>Refuſal</hi> of this <hi>Accompt</hi> to that <hi>Court:</hi> In
+<hi>con<g ref="char:EOLhyphen"/>tradiction</hi> to the moſt mature <hi>Reſolution</hi> taken by
+<hi>One</hi> of your own, ſummon'd in the moſt <hi>ſolemn</hi> Manner,
+and on the moſt <hi>ſolemn</hi> Occaſion; that the <hi>Buſineſs</hi>
+or <hi>Truſt</hi> of this <hi>Houſe</hi> is capable of; and owing on<g ref="char:EOLhyphen"/>ly to
+the <hi>Preſumption</hi> of a <hi>Private One,</hi> not yet
+<hi>confirm'd</hi> by any other; and ſo rendring the whole
+<hi>Tranſaction</hi> of this <hi>Committee</hi> entirely
+<hi>Ex<g ref="char:EOLhyphen"/>tra-judicial;</hi> and as ſuch, by a Worthy <hi>Member</hi> of this
+<hi>Body</hi> moſt juſt<g ref="char:EOLhyphen"/>ly and publickly
+<hi>proteſted-againſt.</hi>
+            </p>
+            <p>
+               <hi>Beſides;</hi> that till the matter of our <hi>Revenue</hi>
+(the ſole <hi>Subject</hi> of that <hi>Report)</hi> receive a
+<hi>Deciſion;</hi> it ſeems too ſoon to proceed to what <hi>I</hi> have
+yet <hi>behind,</hi> upon the ſo-often-mention'd <hi>Article</hi> of the
+<hi>Moral State</hi> of this <hi>Hoſpital:</hi> As thinking it of little
+<hi>
+                  <g ref="char:V">Ʋ</g>ſe,</hi> and leſs <hi>Satisfaction,</hi> to be offering more
+<hi>Matter</hi> for <hi>Grief</hi> and <hi>Reproach</hi> from the
+<hi>Pollution</hi> of its <hi>Manners;</hi> till better aſſur'd of
+wherewith to <hi>ſupport</hi> them, when (by being <hi>better'd)</hi> they
+ſhall be brought to <hi>deſerve</hi> it.</p>
+            <p>Which no <hi>Man (I</hi> fear) will think they <hi>now</hi>
+do<g ref="char:punc">▪</g> that is privy (as <hi>I</hi> am) to the <hi>
+                  <g ref="char:V">Ʋ</g>niverſal
+<hi>Looſeneſs</hi>
+               </hi> of them, both in <hi>Kind</hi> and <hi>Degree,</hi>
+beyond what is almoſt <hi>conceivable</hi> from a <hi>Nurſery</hi>
+conſecrated to <hi>
+                  <g ref="char:V">Ʋ</g>ſes</hi> ſo <hi>pious,</hi> and to the
+<hi>Benefit</hi> of <hi>Objects</hi> ſo little to be ſuſpected
+<hi>ſuſceptible</hi> of the very <hi>thoughts</hi> of them.</p>
+            <p>A <hi>Truth</hi> too <hi>extenſive</hi> to be here enter'd-on,
+even were it now a <hi>Time</hi> for it. Let it only ſuffice, as an
+<hi>Inſtance</hi> of what <hi>I</hi> ſhall then have but too long and
+ungrateful a <hi>deduction</hi> to give you of; that <hi>I</hi> recommend to
+your <hi>preſent Enquiry,</hi> the <hi>proſtituted <g ref="char:V">Ʋ</g>ſe</hi> made of the
+<hi>Publick Acceſs</hi> allow'd to your <hi>Children</hi>'s
+<hi>Devotions</hi> in the <hi>Hall</hi> and the adjacent <hi>Rooms</hi> on
+<hi>Sun<g ref="char:EOLhyphen"/>day-Evenings;</hi> and particularly the <hi>Riot</hi> committed by
+their <hi>lewd Vi<g ref="char:EOLhyphen"/>ſiters</hi> in the <hi>Girls Ward,</hi> but on
+<hi>Sunday</hi> laſt. <hi>I</hi> ſay, the <hi>Girls Ward;</hi> where (as
+blameable as <hi>I</hi> take the <hi>Whole</hi> of our preſent
+<hi>Diſ<g ref="char:EOLhyphen"/>cipline</hi> to be) nothing appears more <hi>abandon'd,</hi> than
+that <hi>Order</hi> and <hi>Mo<g ref="char:EOLhyphen"/>deſty</hi> which, <hi>till</hi> now, has been
+ever held <hi>Sacred</hi> in that <hi>Place;</hi> what<g ref="char:EOLhyphen"/>ever might hap'ly be
+found leſs juſtifyable <hi>elſewhere.</hi>
+            </p>
+            <p>And <hi>This;</hi> notwithſtanding the <hi>Infamy</hi> laid (but
+few <hi>Evenings</hi> before) at your own <hi>Door,</hi> by a <hi>Coach</hi>
+conducted by the <hi>Mob,</hi> charg'd with <hi>two</hi> of your
+<hi>Mathematical Boys,</hi> diſtinguiſh'd by the <hi>Badge</hi> of their
+<hi>Royal <pb facs="tcp:151638:9"/> Founder,</hi> taken-up at <hi>Billins-gate,</hi> brought
+thro' the <hi>City,</hi> deliver'd to you (as before) <hi>Dead-Drunk,</hi> and
+by their <hi>Fellows</hi> diſcharg'd (inſenſible) into <hi>their Ward.
+Their <hi>Ward</hi> I</hi> ſay; wherein, as in the <hi>former,
+Exceſſes</hi> of the ſame <hi>Kind,</hi> though not in the ſame
+<hi>Meaſure,</hi> are (<hi>God</hi> knows) but too familiar: And particularly
+with <hi>Him</hi> of theſe <hi>Two,</hi> who being now <hi>Head</hi> of the
+<hi>School,</hi> and <hi>Leader</hi> in this <hi>Fact,</hi> is <hi>One,</hi>
+who after having en<g ref="char:EOLhyphen"/>joy'd for near nine <hi>Years</hi> together, the
+<hi>Benefit</hi> of this <hi>Houſe's Charity,</hi> and ſpent twice the
+<hi>Time</hi> originally eſtabliſh'd for his <hi>Stay</hi> in that
+<hi>School;</hi> was but lately rejected at the <hi>Trinity-Houſe,</hi> as
+not yet qualify'd for the <hi>End</hi> of his ſo chargeable
+<hi>Education.</hi> And who being alſo arriv'd to the full <hi>Age</hi>
+limited for it by the <hi>King;</hi> it ſeems worthy your
+<hi>Conſidering,</hi> what it is you have now to expect from <hi>One,</hi>
+whom <hi>Debauchery</hi> has car<g ref="char:EOLhyphen"/>ried out of the reach of <hi>Command,</hi>
+before either his <hi>Learning</hi> or your <hi>Diſ<g ref="char:EOLhyphen"/>cipline</hi> has fitted
+him, for knowing how to <hi>Obey.</hi>
+            </p>
+            <p>Let me only, on this <hi>Occaſion,</hi> take leave to
+<hi>lament</hi> a little more <hi>nearly,</hi> the unhappy <hi>Conduct</hi> of
+this <hi>Houſe: <hi>By</hi>
+               </hi> which it ſeems at this day brought under
+the greateſt <hi>Weight</hi> of <hi>Reproach,</hi> from that alone, which was
+<hi>Originally</hi> calculated for, and accordingly received, as its greateſt
+<hi>Ho<g ref="char:EOLhyphen"/>nour</hi> and the largeſt <hi>Inſtance</hi> of <hi>Royal
+Beneficence,</hi> that was ever at once confer'd on a <hi>Houſe</hi> of
+<hi>Charity:</hi> I mean, this <hi>Mathematick Foundati<g ref="char:EOLhyphen"/>on.</hi>
+            </p>
+            <p>The <hi>Thoughts</hi> of which compel me ſo far at leaſt to
+<hi>reſume</hi> the menti<g ref="char:EOLhyphen"/>on of the <hi>Account</hi> relating to it; as once
+again to <hi>recommend</hi> it to this <hi>Court,</hi> that no more
+<hi>Impoſures</hi> on his <hi>Majeſty</hi> be adventur'd-on, by
+<hi>Appli<g ref="char:EOLhyphen"/>cations</hi> to his <hi>Treaſury</hi> for further <hi>Payments</hi>
+on that <hi>Score;</hi> till We ſhall have firſt diſcharg'd our ſelves
+of the <hi>Debt</hi> I ſo long ſince noted to You thereon, without ought
+ever yet return'd me in <hi>Solution</hi> of it.</p>
+            <p>
+               <hi>3ly.</hi>—In the little <hi>Regard</hi> had, after near
+two <hi>Years</hi> paſs'd ſince the <hi>Treaſurer's
+<hi>Reſignation</hi>
+               </hi> of his <hi>Office</hi> and Your accepting it, to
+the for<g ref="char:EOLhyphen"/>warding the <hi>Adjuſtments</hi> of his <hi>Accounts</hi>
+neceſſary to the <hi>Execution</hi> of it: We being now <hi>entring</hi>
+into 1699, without any <hi>Audit</hi> cloſed, much leſs
+<hi>engroſs'd</hi> and <hi>ſign'd</hi>-to for the Year 1697.</p>
+            <p>Beſides that (by all <hi>I</hi> can yet <hi>learn</hi> of what
+is done towards it) Your <hi>Receipts</hi> for that <hi>Year</hi> have exceeded
+thoſe of the <hi>Year</hi> preceding; as a<g ref="char:EOLhyphen"/>mounting to full 12000
+<hi>l.:</hi> Without a <hi>Farthing</hi> of it yet apply'd to the
+leſ<g ref="char:EOLhyphen"/>ſening either Your 13000 <hi>l. <hi>Debt</hi>
+               </hi> to
+<hi>Benefactors</hi> for <hi>Purchaſes,</hi> or the 20000 <hi>l.</hi> I make
+You <hi>accountable-for</hi> to the <hi>King</hi> on his <hi>Foundation.</hi>
+Nor yet a<g ref="char:EOLhyphen"/>bove 200 <hi>l. Diſcharg'd</hi> of the 8400 <hi>l.</hi> lately
+owing for <hi>Principal Money</hi> taken-up at <hi>Intereſt;</hi> nor more
+than 100. and odd Pounds given-in for your <hi>Remainder</hi> in Caſh. While
+at the ſame time I have it to <hi>obſerve</hi> to you; that in
+conſequence of the <hi>Importunities</hi> you have heretofore ſuffer'd from
+me, for the <hi>diſcontinuing</hi> your ſo frequent and almoſt unlimited
+<hi>Ad<g ref="char:EOLhyphen"/>miſſions</hi> of <hi>Children</hi> (as the only certain
+<hi>Expedient</hi> I could then, or can yet propoſe for <hi>reſcuing</hi>
+Us from Ruin) their <hi>Number</hi> is from 1030. <hi>lower'd</hi> to 430; and
+conſequently, your <hi>Charge</hi> diminiſh'd (through the
+ſuc<g ref="char:EOLhyphen"/>ceſſive <hi>Abatements</hi> of about 120 <hi>Yearly,</hi> between
+<hi>Eaſter</hi> 1694. and that now approaching 1699) by 600.
+<hi>Children:</hi> And the <hi>Savings</hi> there<g ref="char:EOLhyphen"/>from (of what, had the
+contrary <hi>Practice</hi> continu'd, your <hi>Expence</hi> muſt <pb facs="tcp:151638:9"/>
+have amounted to) fallen <hi>little ſhort</hi> of 15000 <hi>l;</hi> and the
+<hi>Condition</hi> alſo of your <hi>Purſe,</hi> ſome way or other, been
+as much <hi>better'd.</hi> Whereas, if what has been above-inform'd me be
+<hi>true</hi> (which <hi>God</hi> forbid, and yet I dare not <hi>disbelieve)
+This</hi> alſo is <hi>gone;</hi> and the <hi>Hoſpital</hi> reſts in the
+ſame <hi>Degree</hi> of <hi>Diſtreſs</hi> it was in, when thought
+neareſt being <hi>undone.</hi>
+            </p>
+            <p>And this too; without <hi>One Penny</hi> of our <hi>Charge</hi>
+retrench'd, either in the <hi>Number</hi> or <hi>Expence</hi> of our
+<hi>Officers,</hi> from what it was when the <hi>Number</hi> of our
+<hi>Children</hi> was more by <hi>Three Fifths</hi> than they now are: But ſo
+much the <hi>Contrary,</hi> as to have the <hi>Charge</hi> of <hi>Officers</hi>
+ſaid to be now <hi>Greater,</hi> by ſeveral <hi>Hundreds</hi> of
+<hi>Pounds,</hi> under our preſent 430 <hi>Children;</hi> than it was in the
+<hi>Years</hi> 1660 and 1661 with above 1100.</p>
+            <p>For <hi>God<g ref="char:punc">▪</g>s</hi> ſake therefore, <hi>Gentlemen,</hi> let
+us from theſe <hi>Effects</hi> be incit<g ref="char:EOLhyphen"/>ed, inſtantly and cloſely to
+<hi>Conſider</hi> in what <hi>Hands</hi> the <hi>Treaſure</hi> and
+<hi>Stock</hi> of our <hi>Poor</hi> now lye. <hi>Hands,</hi> that (in one Word)
+need no other <hi>Evidence</hi> of their <hi>
+                  <g ref="char:V">Ʋ</g>nſitneſs</hi> for the
+<hi>Truſt;</hi> than the <hi>Publick Re<g ref="char:EOLhyphen"/>luctancy</hi> they are not aſham'd
+to ſhew, to every thing that but <hi>Looks</hi> like bringing them to an
+<hi>Account.</hi>
+            </p>
+            <p>Beſides the Conſideration, of how much more to be
+<hi>Lamented</hi> any <hi>Miſcarriage</hi> would be, and leſs to be
+<hi>Excus'd,</hi> that ſhould attend the <hi>Neglect</hi> of it, in caſe of
+any unexpected <hi>Change</hi> in the <hi>Perſon</hi> of our
+<hi>Treaſurer;</hi> whoſe known <hi>Age</hi> will alone juſtify my
+<hi>Apprehenſion</hi> of it, even without the <hi>Help</hi> of that
+<hi>Declaration</hi> which <hi>Himſelf</hi> two <hi>Tears</hi> ſince
+thought fit <hi>ſpontaneouſly</hi> to make in open <hi>Court,</hi> of his
+<hi>Disability</hi> (even <hi>then</hi>) both in <hi>Body</hi> and
+<hi>Mind,</hi> for longer executing his <hi>Office;</hi> and therefore
+reſigning it had it accepted of by you.</p>
+            <p>
+               <hi>4thly,</hi>—In the <hi>Liberty</hi> taken by ſome
+<hi>Gentlemen,</hi> not of the low<g ref="char:EOLhyphen"/>eſt <hi>Name</hi> in the
+<hi>Management</hi> of this <hi>Houſe;</hi> of arraigning in <hi>Common
+Converſation</hi> as well as ſingly to <hi>my ſelf,</hi> theſe
+<hi>Enquirys</hi> of mine on behalf of our <hi>Orphans;</hi> as
+<hi>tending</hi> at leaſt (if not <hi>deſigned</hi>) to the wreſting the
+<hi>Government</hi> of it out of their <hi>Hands,</hi> who valuing themſelves
+upon the <hi>Title</hi> of <hi>Church-of-England-Men,</hi> ſeem impa<g ref="char:EOLhyphen"/>tient
+under the <hi>Apprehenſion</hi> of being ſupplanted in it by the
+<hi>Fana<g ref="char:EOLhyphen"/>ticks.</hi> A <hi>Thought</hi> (God knows) of too little
+<hi>Weight</hi> with me, for <hi>Fither</hi>'s ſake, to trouble my
+<hi>Head</hi> with: As well knowing, how lit<g ref="char:EOLhyphen"/>tle the <hi>Felicity</hi> of
+<hi>Mankind</hi> has at any time been owing to <hi>Nominal Diſtinctions</hi>
+in <hi>Religion;</hi> and no leſs remembring, how little the
+<hi>Biſhop</hi> of <hi>Jeruſalem, <hi>St. James,</hi>
+               </hi> could be thought
+ignorant of that beſt of <hi>Names</hi> (of <hi>Chriſtian,</hi> I mean)
+when to aſcertain the Religion intended by him under his <hi>Epithetes</hi>
+of <hi>Pure</hi> and <hi>Undefiled,</hi> he waved the <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> of
+either <hi>that</hi> or any <hi>other;</hi> and rather <hi>choſe</hi> to
+diſtinguiſh it, by the Moral <hi>Leſſons,</hi> of <hi>Viſiting the
+<hi>Fatherleſs</hi> and the <hi>Widow</hi> in their Afflictions, and living
+unſpotted of the World: Leſſons</hi> read to <hi>Mankind,</hi> long
+before the <hi>Name</hi> of <hi>Chriſtian</hi> or of its Holy
+<hi>Founder</hi> was ever heard of therein.</p>
+            <p>In purſuance of which; If to <hi>ſubject</hi> our
+<hi>Orphans</hi> to all the <hi>Conſequences</hi> of a <hi>Miſpent
+<hi>Revenue;</hi>
+               </hi> if to <hi>add</hi> to the <hi>Affliction</hi> of their
+<hi>Widow-Mothers,</hi> the ſorrowful <hi>Effects</hi> too often ſeen in
+them of a <pb facs="tcp:151638:10"/> corrupted <hi>Education;</hi> if the
+<hi>Diſappointments</hi> ariſing from <hi>both,</hi> to the religious
+<hi>Purpoſes</hi> of their pious and bountiful <hi>Benefactors,</hi> be in
+the <hi>Senſe</hi> of theſe <hi>Gentlemens <hi>Church</hi>
+               </hi> the
+fulfilling of that <hi>Deſcription;</hi> Much <hi>Good</hi> may do them with
+their <hi>Churchmenſhips;</hi> and may I be their <hi>Caſt-away.</hi>
+            </p>
+            <p>
+               <hi>5thly.</hi>—<hi>Laſtly,</hi> In the <hi>Proof</hi>
+ſo lately given me, of the little to be hoped-for of <hi>Remedy</hi> to
+theſe <hi>Evils,</hi> from what I muſt acknow<g ref="char:EOLhyphen"/>ledge my having lodged my
+laſt <hi>Relyance</hi>-on, towards it: namely, The <hi>getting them</hi>
+fairly laid before a <hi>General-Court.</hi> Foraſmuch as from the
+<hi>Ineffectualneſs</hi> of all my <hi>Endeavours</hi> on that behalf, in the
+<hi>Solemnity</hi> of the <hi>Summons</hi> provided for that held the
+<hi>25th</hi> of <hi>November</hi> laſt; I find the <hi>Predominancy</hi> of
+thoſe whoſe <hi>Buſineſs</hi> it is to obſtruct it, ſuch; as to
+have been able to <hi>prevent</hi> the very <hi>Reading</hi> of the
+<hi>Papers</hi> it was alone called to the <hi>Hearing of;</hi> and
+con<g ref="char:EOLhyphen"/>ſequently, to ſend them <hi>home</hi> as little appriſed of the
+<hi>Import</hi> thereof to the <hi>Weal</hi> of the <hi>Houſe,</hi> as they
+were at their <hi>coming thither.</hi>
+            </p>
+            <p>From which ſo freſh <hi>Confirmation</hi> of a <hi>Truth
+I</hi> had but too often be<g ref="char:EOLhyphen"/>fore both <hi>experimented</hi> and
+<hi>complain'd</hi> of; and from the further <hi>Pra<g ref="char:EOLhyphen"/>ctices</hi> occurring to
+me on this occaſion, of <hi>intercepting, ſuppreſſing,</hi> and
+otherwiſe indirect <hi>diſpoſing</hi> of <hi>Papers</hi> not thought for
+ſome <hi>Private Turns</hi> fitt to be admitted to <hi>Publick View: I</hi>
+think it high <hi>Time</hi> for me, to lay<g ref="char:EOLhyphen"/>down the <hi>Tenderneſs</hi>
+wherewith <hi>I</hi> have hitherto <hi>govern'd</hi> my ſelf, in the
+<hi>expoſing</hi> of what <hi>I</hi> have already ſaid, and may hereafter
+have further to ſay hereon; <hi>proceeding</hi> (as <hi>I</hi> lately told
+You, <hi>I ſhould</hi>) to the communi<g ref="char:EOLhyphen"/>cating the ſame without
+<hi>Reſtriction</hi> to the <hi>Gentlemen</hi> of this <hi>Houſe,</hi> in
+the like <hi>Open method I</hi> have (with good <hi>Acceptance</hi>) been for
+ſome time uſing towards the <hi>Honourable</hi> the <hi>Lord Mayor</hi> and
+<hi>Court</hi> of <hi>Aldermen</hi> our immediate <hi>Superiors,</hi> on the
+ſame <hi>Subject.</hi> I am with great reſpect,</p>
+            <closer>
+               <salute>Gentlemen,</salute>
+               <signed>
+                  <hi>Your moſt faithful and moſt humble Servant,</hi> S.
+Pepys.</signed>
+            </closer>
+         </div>
+         <div type="docket_title">
+            <pb facs="tcp:151638:10"/>
+            <pb facs="tcp:151638:11" rendition="simple:additions"/>
+            <p>Mr. PEPYS, <hi>upon the State of Chriſt-Hoſpital.</hi>
+            </p>
+            <p>
+               <hi>Paper IV.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:151638:11"/>
+            <head>Mr. <hi>PEPYS</hi> To the Right Honourable Sir <hi>Francis
+Child, Kt.</hi> Lord <hi>Mayor,</hi> and to the <hi>Court</hi> of
+<hi>Aldermen,</hi> up<g ref="char:EOLhyphen"/>on the <hi>Preſent State</hi> of
+<hi>Christ-Hospital.</hi>
+            </head>
+            <opener>
+               <dateline>York-Buildings,
+<date>March 7th. 1698 / 9.</date>
+               </dateline>
+               <salute>My <hi>Lord</hi> and <hi>Gentlemen,</hi>
+               </salute>
+            </opener>
+            <p>THAT nothing may reſt <hi>uncommunicated</hi> to this
+<hi>Court,</hi> of what goes from me to that of <hi>Chriſt-Hoſpital;</hi>
+any more than, by your <hi>Allowance, I</hi> with-hold from <hi>Them,</hi>
+ought of what <hi>I</hi> offer <hi>You:</hi> I here tender you a <hi>Copy</hi>
+of a <hi>Letter</hi> of mine thither, of the 25. of <hi>January.</hi>
+            </p>
+            <p>The <hi>Contents</hi> of which bearing my <hi>Farewel</hi> to
+<hi>Them,</hi> as with all reſpect my purpoſe is in this to <hi>You; I</hi>
+cannot but recommend the <hi>Peruſal</hi> there<g ref="char:EOLhyphen"/>of to this <hi>Court;</hi> as
+carrying with them ſuch a <hi>Repreſentation</hi> of the <hi>pe<g ref="char:EOLhyphen"/>riſhing
+State</hi> of that <hi>Houſe,</hi> in ſome <hi>freſh</hi> Particulars
+eſſential to the <hi>Well<g ref="char:EOLhyphen"/>being</hi> of it, as render it a thing little
+leſs than <hi>hopeleſs</hi> for me (by <hi>ordinary</hi> Means, at leaſt)
+any longer to think of <hi>ſaving</hi> it: After find<g ref="char:EOLhyphen"/>ing my ſelf put to
+above <hi>ſeven Months</hi> Labour, in compaſſing only its
+<hi>Treaſurer's <hi>Signing</hi>
+               </hi> that <hi>one Article</hi> of his
+<hi>Account,</hi> which you had before had from him <hi>
+                  <g ref="char:V">Ʋ</g>nſign'd;</hi> and
+more than <hi>ten,</hi> in finding <hi>Paſſage</hi> only, through this
+<hi>Court</hi> thither, to my late <hi>Report</hi> of the <hi>State</hi> of the
+ſame.</p>
+            <p>And <hi>What</hi> it is that may be look't-for from it, even now
+it is <hi>there,</hi> with a <hi>Committee</hi> of few leſs than
+<hi>forty,</hi> and of them the <hi>Majority</hi> ſuch, as will find little
+<hi>Work</hi> for them in it, but <hi>Self-Arraignment; I</hi> ſubmit to your
+<hi>Lordſhip</hi> and this <hi>Court.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:151638:12"/>Eſpecially, when you ſhall be pleas'd to reflect
+upon the preſent <hi>Circumſtances</hi> of that <hi>Houſe's
+Government;</hi> viz.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>NDER</hi> the <hi>Guidance</hi> of a <hi>Preſident,</hi>
+equal indeed to the wor<g ref="char:EOLhyphen"/>thieſt of his <hi>Predeceſſors,</hi> both in his
+general <hi>Virtues,</hi> and ſpecial <hi>Munificence</hi> to that
+<hi>Place.</hi> But <hi>One,</hi> whoſe <hi>Piety</hi> has out-liv'd his
+<hi>Strength</hi> for being otherwiſe <hi>perſonally</hi> aidful to it, in
+any of the Weightier <hi>Duties</hi> of that <hi>Charge.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>NDER</hi> a <hi>Treaſurer,</hi> who (beſides what you
+have elſewhere before you concerning him) was alſo pleas d to declare
+himſelf <hi>un<g ref="char:EOLhyphen"/>able</hi> both in <hi>Mind</hi> and <hi>Body,</hi> for the
+longer <hi>Execution</hi> of his <hi>Office;</hi> and therefore made his formal
+<hi>Reſignation</hi> of it, and had it as formally <hi>accepted-of</hi> from
+him in <hi>Court</hi> there, above <hi>two years</hi> ſince.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>NDER</hi> the Direction of <hi>Gentlemen</hi> acting indeed
+as <hi>Gover<g ref="char:EOLhyphen"/>nours,</hi> and to whom as <hi>ſuch</hi> I have for more than
+23. years had the <hi>Honour</hi> of reckoning my ſelf a
+<hi>Fellow-ſervant;</hi> but are ſaid to ſtand <hi>reported</hi> to You
+at this day by your Learned <hi>Council,</hi> not to be <hi>ſuch,</hi> nor
+capable of being <hi>ſo,</hi> without (what they have never yet had) the
+<hi>Confirmation</hi> of this <hi>Court.</hi>
+            </p>
+            <p>And laſtly, <hi>
+                  <g ref="char:V">Ʋ</g>NDER</hi> an <hi>Adminiſtration</hi> alſo
+on the part of your <hi>Lordſhip</hi> and your Honoured <hi>Brethren,</hi>
+ſo <hi>Gentle;</hi> as to have ſuffer'd your <hi>Orders</hi> thither, even
+in <hi>Points</hi> the moſt impor<g ref="char:EOLhyphen"/>tant, to lye 7. <hi>Months</hi> together
+wholly neglected, and your <hi>Au<g ref="char:EOLhyphen"/>thority</hi> as openly renounc'd; without
+having yet thought fit to have ought done (within <hi>my</hi> Notice at
+leaſt) in <hi>Aſſertion</hi> of it.</p>
+            <p>A <hi>Reflection, <hi>My Lord,</hi>
+               </hi> as hard to be
+<hi>accounted-for,</hi> as in it ſelf <hi>Grievous..</hi>
+            </p>
+            <p>Foraſmuch as, If after ſo uninterrupted a
+<hi>Juriſdiction,</hi> as has been al<g ref="char:EOLhyphen"/>ways exercis'd by this <hi>Court,</hi>
+and with a <hi>Submiſſion</hi> as conſtantly paid thereto from theſe
+<hi>Hoſpitals;</hi> If after ſo long a <hi>Succeſſion</hi> of
+<hi>Gifts</hi> and <hi>Bequeſts</hi> to them, and thoſe to great
+<hi>Values,</hi> in reliance upon the <hi>Credit</hi> and <hi>Authority</hi> of
+this <hi>Court</hi> alone for their <hi>Security;</hi> If after ſo
+eſtabliſh'd a <hi>Veneration</hi> acquir'd to it, as <hi>Guardians</hi> of
+theſe <hi>Foundations,</hi> and par<g ref="char:EOLhyphen"/>ticularly as the <hi>Moral Fathers</hi>
+of the <hi>Orphans</hi> of this <hi>Houſe,</hi> when in your
+<hi>Eaſter</hi> and other <hi>Solemnities,</hi> They, as <hi>Your
+Children,</hi> bear no ſmall part in the <hi>Honour</hi> of your
+<hi>Proceſſions;</hi> And laſtly, If after what in <hi>my</hi> particular
+I have been endeavouring herein for <hi>Your Service,</hi> and for the
+<hi>Service</hi> of the <hi>Poor;</hi> this <hi>Court</hi> ſhall appear to
+have been all this while thus <hi>credited</hi> and thus <hi>obey'd,</hi>
+without <hi>Authority</hi> at this day, under the greateſt of their
+<hi>Miſcarriages,</hi> to <hi>viſit</hi> and <hi>reform</hi> Them; for ſo
+alſo your Learned <hi>Council</hi> are ſaid to have <hi>determin'd.
+What</hi> muſt be thought of this <hi>miſtake?</hi> And particularly,</p>
+            <p>How will the Pious <hi>Credulity</hi> of our <hi>Princely
+Founders</hi> and <hi>paſt <hi>Benefactors</hi>
+               </hi> be to be lamented; and
+what more to be either <hi>hop'd</hi> or <hi>wiſh'd-for</hi> of Them, on
+<hi>theſe</hi> Terms, in time <hi>to come?</hi>
+            </p>
+            <p>What muſt the <hi>Apprehenſions</hi> now be of
+<hi>Thoſe,</hi> whoſe <hi>Subſiſtence</hi> reſts upon the
+<hi>Authority</hi> only of <hi>this <hi>Court,</hi>
+               </hi> for the <hi>Payments
+<pb facs="tcp:151638:12"/> that <hi>Houſe</hi>
+               </hi> ſtands charg'd with to <hi>their
+<g ref="char:V">Ʋ</g>ſe,</hi> out of the larger <hi>Benevolences</hi> of their Charitable
+<hi>Aunceſtors?</hi>
+            </p>
+            <p>Or <hi>Theirs;</hi> whoſe <hi>Debts</hi> of more <hi>modern</hi>
+Date, lye unpaid (ma<g ref="char:EOLhyphen"/>ny <hi>Thouſand Pounds</hi> deep) by <hi>that
+<hi>Hoſpital</hi>
+               </hi> at <hi>Intereſt,</hi> upon no other
+<hi>Security?</hi>
+            </p>
+            <p>What is there to be rely'd-on of <hi>Fruit</hi> from the
+<hi>Retroſpections</hi> ſaid to be now on foot <hi>there,</hi> or thoſe
+lying before your <hi>Lordſhip</hi> and <hi>this <hi>Court,</hi>
+               </hi> from
+<hi>my <hi>Report?</hi>
+               </hi>
+            </p>
+            <p>Or in a Word; What to be hop'd-for either of <hi>Satisfaction</hi>
+for ſo much of our <hi>Poor's <hi>Stock</hi>
+               </hi> and <hi>Benefactor's
+<hi>Bounties</hi>
+               </hi> as has al<g ref="char:EOLhyphen"/>ready <hi>miſcarry'd;</hi> or of better
+<hi>Proviſion</hi> in time to come, for <hi>ſecuring</hi> the
+<hi>Remainder?</hi>
+            </p>
+            <p>What, <hi>I</hi> ſay <hi>my Lord,</hi> muſt the
+<hi>Reſult</hi> of all this be, and how to be <hi>anſwerd-for;</hi>
+ſhould <hi>this <hi>Court</hi>
+               </hi> be ſo unhappy, as <hi>knowingly</hi> to
+per<g ref="char:EOLhyphen"/>mit ſuch a <hi>Foundation</hi> and its <hi>Revenue</hi> to reſt one day
+longer, in <hi>Hands</hi> no otherwiſe <hi>qualify'd-for,</hi> nor better
+<hi>intitled</hi> to the <hi>Truſt</hi> of it? While by a
+<hi>Reſolution</hi> of its own, not yet 16. <hi>Months</hi> old, you have
+been pleas'd to declare your ſelves <hi>ſtanding <hi>Governours</hi>
+               </hi>
+of the ſame, and (as ſuch) required your being (as anciently)
+<hi>ſummon'd</hi> to every of its <hi>Courts,</hi> and accordingly have ever
+ſince been ſo, and <hi>now</hi> are: To the <hi>entitling</hi> Your
+ſelves (<hi>I</hi> fear) to a nearer <hi>Concernment</hi> in the
+<hi>Fate</hi> of it, than may have been yet ſufficiently reflected on; and
+poſſibly, to an <hi>Accountableneſs</hi> with Them, for the <hi>good</hi>
+or <hi>bad Events</hi> of their <hi>Managements</hi> there.</p>
+            <p>A <hi>Conſideration</hi> I am the more willingly your preſent
+<hi>Remembrancer</hi> in, from the freſh <hi>Endeavours</hi> ſaid to be now
+on foot there, for <hi>reſuming</hi> their Old Liberty of <hi>taking-in
+<hi>Children,</hi>
+               </hi> while unprovided of a Bit of <hi>Bread</hi> for thoſe
+they <hi>now</hi> have, otherwiſe than by running into <hi>new Debt,</hi> or
+length'ning their Score of <hi>Intereſt</hi> upon the <hi>Old;</hi> Beſides
+ſacrificing the <hi>Innocence</hi> of ſo many freſh <hi>Infants,</hi> to
+the <hi>Diſſoluteneſs</hi> of <hi>Manners</hi> now reigning, among
+<hi>thoſe</hi> they are to be there <hi>mixed-with.</hi> The <hi>Evil</hi> of
+whoſe <hi>Contagion,</hi> and <hi>Preſſure</hi> of which <hi>Debt,</hi> I
+take to be no otherwiſe <hi>removable,</hi> than by a total <hi>Stop</hi> to
+be for ſome time put, to the <hi>Occaſions</hi> of <hi>Both.</hi>
+            </p>
+            <p>An <hi>Expedient,</hi> that I well know will at the firſt
+hearing be thought as <hi>Impracticable,</hi> as in other Reſpects
+<hi>Extraordinary.</hi>
+            </p>
+            <p>But the <hi>Caſe</hi> is <hi>Extraordinary</hi> too; and
+conſequently, to reſtrain its <hi>Remedy</hi> to <hi>Ordinary Methods</hi>
+only, is little other, than to leave it <hi>Remedy-leſs.</hi> Which I cannot
+think any <hi>Gentleman,</hi> who hath the <hi>Ho<g ref="char:EOLhyphen"/>nour</hi> and
+<hi>Truſt</hi> of a <hi>Governour</hi> there, will contentedly ſit-down
+with, while <hi>furniſh'd</hi> with any thing to offer towards the
+<hi>Saving</hi> it, as (for want of better) I do <hi>this:</hi> And yet with an
+<hi>Opinion</hi> ſo far from deeming it <hi>Impracticable,</hi> as to reckon
+it a Work neither of <hi>Length</hi> nor <hi>Difficulty;</hi> if, in
+<hi>Atonement</hi> for that <hi>Miſconduct</hi> of ours, by which, from the
+<hi>Proſperity</hi> this <hi>Houſe</hi> was in while under the Care but of
+16. <hi>Governours</hi> with 500. <hi>Children,</hi> it has been brought into
+the <hi>Condition</hi> it now lies with 400. <hi>Governours</hi> (little more
+or leſs) and <pb facs="tcp:151638:13"/> but 400. <hi>Children;</hi> if (I ſay) in
+<hi>Atonement</hi> for that <hi>Miſconduct,</hi> we would improve the
+Opportunity of this <hi>nearneſs</hi> in our <hi>Numbers,</hi> to the
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſing the <hi>Houſe</hi>
+at once of the <hi>Whole,</hi> by every <hi>Governour's</hi> taking to
+himſelf <hi>One:</hi> Thereby leaving the <hi>Income</hi> of it entireiy free
+to the <hi>Diſcharge</hi> of its <hi>Debts,</hi> doing Right to its
+<hi>Founders and Benefactors,</hi> and that being done, to the ſetting-out
+<hi>afreſh,</hi> with a <hi>Revenue <hi>clear'd,</hi>
+               </hi> its
+<hi>Diſcipline <hi>reform'd,</hi>
+               </hi> and <hi>Proviſion</hi> made for its
+future better <hi>Conduct</hi> through the <hi>Whole.</hi> And this I lay with
+all Deference before your <hi>Lordſhip</hi> and this <hi>Court,</hi> as that
+without which, or ſome other <hi>Aequi<g ref="char:EOLhyphen"/>valent,</hi> I muſt avow my
+<hi>Deſpair</hi> of ever ſeeing this unhappy <hi>Houſe</hi> in the
+<hi>State</hi> it ought to be; and therefore would be glad, with your
+<hi>Concurrence</hi> and the <hi>Concurrence</hi> of the <hi>Gentlemen</hi> of
+that <hi>Body,</hi> to be doing <hi>my</hi> part, either in <hi>this</hi> or
+any <hi>other</hi> Effectual <hi>Propoſition,</hi> towards it.</p>
+            <p>I am well aware, <hi>My Lord,</hi> of the <hi>Cenſure</hi> this
+<hi>Fervor</hi> of mine may expoſe me to, as <hi>One</hi> overpreſſing in
+a <hi>Cauſe,</hi> wherein <hi>Others</hi> nei<g ref="char:EOLhyphen"/>ther leſs
+<hi>intereſted</hi> nor leſs <hi>diſcerning</hi> than <hi>my ſelf,</hi>
+are pleas'd to ſhew ſo little of the <hi>Diſſatisfaction</hi> I do; and
+without any <hi>ſurpriſe</hi> on <hi>my</hi> ſide at it, as well
+remembring how little different <hi>my own Sentiments</hi> were of it, while
+<hi>my Knowledge</hi> thereof (like <hi>theirs</hi>) had no other
+<hi>Direction,</hi> than the <hi>Information</hi> of <hi>Others.</hi> Whereas
+no ſooner was I engaged in the cloſer and more deliberate
+<hi>Enquiries</hi> apply'd thereto of <hi>my own,</hi> but <hi>that
+Indifference</hi> of mine was awaken'd to the Degree of <hi>Concernment</hi> I
+now profeſs; and which, on like <hi>Conviction,</hi> would be no leſs in
+any <hi>other,</hi> whoſe <hi>Morals</hi> (like <hi>mine</hi>) know no
+<hi>middle,</hi> in matters of <hi>Truſt</hi> at leaſt, between
+ſcrupulouſly <hi>Juſt,</hi> and down-right the <hi>Contrary.</hi> Or to
+ſpeak more plainly; between mixing <hi>my own</hi> Hand in the <hi>Ruin</hi>
+of this Religious <hi>Houſe,</hi> and ſitting <hi>ſilently</hi> within
+<hi>View</hi> of its being brought-about, by the <hi>Vanitie, Supineneſs,
+Prodigality,</hi> or <hi>Self-intereſt</hi> of <hi>Others.</hi>
+            </p>
+            <p>Indulge me therefore, <hi>My Lord,</hi> the Liberty of this
+<hi>One</hi> only cloſing <hi>Note</hi> to Your <hi>Lordſhip</hi> upon this
+<hi>Subject.</hi> Namely, That as the <hi>Direction</hi> of the
+<hi>Hoſpitals,</hi> has in all times hitherto been undeniably
+<hi>exerciſed</hi> by your Honourable <hi>Predeceſſors,</hi> in this
+<hi>Place;</hi> and as un<g ref="char:EOLhyphen"/>interruptedly <hi>ſubmitted-to.</hi> So is it no
+leſs evident, that however an Occaſion has now (after <hi>ſevenſcore
+years</hi> Practice) been adminiſtred to the <hi>queſtioning</hi> it; Your
+ſaid <hi>Predeceſſors,</hi> (the <hi>Lord Mayor, Commonalty,</hi> and
+<hi>Citizens</hi> of <hi>London)</hi> upon <hi>Covenants</hi> firſt by Them
+entered-into with <hi>K. Edward</hi> VI. for the good <hi>Government</hi> of
+Them, were by his ſpecial <hi>Charter</hi> of <hi>Incorporation</hi> as
+<hi>Governours</hi> thereof, furniſhed with all the <hi>Powers</hi>
+requiſite to the enabling them to <hi>make-good</hi> thoſe
+<hi>Covenants.</hi>
+            </p>
+            <p>In conſideration of which, and in Duty to Your
+<hi>Lordſhip,</hi> to the <hi>City,</hi> to this <hi>Court,</hi> and to the
+<hi>Poor,</hi> I cannot (as a <hi>Servant</hi> to all) but moſt earneſtly
+pray; that this <hi>Matter</hi> may without delay, be laid for <hi>Remedy</hi>
+before <hi>that <hi>Body Corporate,</hi>
+               </hi> where-ever it now reſts; in
+order to the preventing, if poſſible, any unneceſſary recourſe to
+<hi>Methods Extraordinary,</hi> for what ſhould be thought attainable by
+<hi>Ordinary.</hi> Eſpe<g ref="char:EOLhyphen"/>cially <pb facs="tcp:151638:13"/> while, Sitting a
+<hi>Parliament,</hi> with ſo many of your own Number, and of the
+<hi>Hoſpital's, <hi>Members</hi>
+               </hi> therein, and with a <hi>Bill</hi>
+already (I take it) before Them, relating to <hi>Charitable Uſes<g ref="char:punc">▪</g>
+               </hi>
+no reaſonable <hi>Supple<g ref="char:EOLhyphen"/>ment</hi> ought to be doubted from it, to that
+<hi>Ordinary Power:</hi> If any ſuch can be judg'd wanting, after ſo
+illuſtrious a <hi>Proof,</hi> as I have ſometime ſince given you, of the
+<hi>iſſue</hi> of his Lordſhip, the preſent <hi>Lord Chancellors
+Proceeding</hi> in the late Memorable <hi>Caſe</hi> of St.
+<hi>Katharines</hi> A <hi>Proceeding</hi> I cannot but remind you of; as well
+as of the <hi>Check</hi> put but few years be<g ref="char:EOLhyphen"/>fore at the <hi>Great Seal,</hi>
+to a <hi>Viſitation</hi> then offered-at, in a Method leſs
+<hi>regular,</hi> in the <hi>Caſe</hi> of <hi>St. Thomas's.</hi>
+            </p>
+            <p>To conclude, <hi>My Lord,</hi> this <hi>Calamity</hi> of ours in
+our <hi>Hoſpital-con<g ref="char:EOLhyphen"/>cernment</hi> is a <hi>Spot</hi> not to be cover'd in
+our <hi>Feaſts</hi> of <hi>Charity,</hi> once the <hi>Glory</hi> of this
+<hi>City.</hi> And a <hi>Spot</hi> not at the <hi>worſt</hi> neither, but
+daily <hi>ſpreading,</hi> and daily <hi>deepening</hi> too, through every
+part of it. Witneſs its <hi>Appearance</hi> (where leaſt to have been
+lookt-for) in the very <hi>laſt</hi> act of our <hi>Treaſurer's
+ſigning</hi> this <hi>Account;</hi> as giving you therein, his own
+<hi>Hand</hi> in Evidence againſt the <hi>Truth</hi> of what you had had
+before from his <hi>
+                  <g ref="char:V">Ʋ</g>nſign'd<g ref="char:punc">▪</g>
+               </hi> and in which, as in all other its
+former <hi>Editions,</hi> to <hi>my ſelf,</hi> to the <hi>Hoſpital,</hi>
+and from thence to the <hi>Lords</hi> of the <hi>Treaſury,</hi> there had
+been ſuppreſs'd in the ſingle <hi>Article</hi> of <hi>Sea Wages,</hi> a
+Sum no leſs than 1400 <hi>l.</hi> beſides others of greater <hi>Moment</hi>
+yet behind. And this too, notwithſtanding repeated <hi>Cautions</hi> to them
+concerning it; and particularly in <hi>my laſt,</hi> whereof this brings you
+a <hi>Copy.</hi> And ſince which (as <hi>freſh</hi> at it is) they have
+nevertheleſs adventur'd to <hi>ask,</hi> and actually <hi>received</hi> more
+than 700 <hi>l.</hi> upon that very <hi>Head</hi> on which the
+<hi>Treaſurer</hi> has ſo lately own'd his having <hi>twice</hi> that Sum
+of the <hi>King</hi>'s in his <hi>Hand,</hi> yet to be
+<hi>accounted-for.</hi>
+            </p>
+            <p>Be pleaſed therefore to think of ſome ſpeedy
+<hi>Prevention</hi> to the <hi>Growth</hi> of this our <hi>Reproach.</hi> And
+towards it, permit me only to ſay; That as uneaſy as the
+<hi>
+                  <g ref="char:V">Ʋ</g>ndertaking</hi> may appear to '<hi>others;</hi> I ſee no Cauſe of
+apprehending any thing of more <hi>difficulty</hi> needful towards it (whether
+as to the due <hi>animadverting</hi> upon what is <hi>paſt,</hi> or better
+<hi>pro<g ref="char:EOLhyphen"/>viding</hi> for what is <hi>to come</hi>) than a <hi>Right
+<hi>Choice</hi> of a very few <hi>Hands</hi> to be aſſign'd thereto,
+ſupported with an <hi>Authority</hi> ſuited to the <hi>Work,</hi> and
+<hi>Powers</hi> requiſite to the rendring their Labours and Determinations
+there<g ref="char:EOLhyphen"/>in <hi>Effectual.</hi>
+               </hi>
+            </p>
+            <p>Which being <hi>adjuſted,</hi> and that <hi>only;</hi> I
+ſhould with great aſſu<g ref="char:EOLhyphen"/>rance of <hi>ſucceſs,</hi> both readily and
+gladly pay the utmoſt of my <hi>perſonal Service</hi> to the <hi>Gentlemen
+ſo commiſſion'd;</hi> as well in detecting the <hi>Errors</hi> of my own
+<hi>Calculations</hi> (and which for the <hi>Poor's</hi> ſake I could wiſh
+<hi>more,</hi> than I dare yet hope them to be) as ſuggeſting and applying
+adequate <hi>Remedies,</hi> to what thoſe <hi>Gentlemen</hi> in their happyer
+<hi>Enquirys</hi> may find <hi>truly needing</hi> the ſame.</p>
+            <p>But if after all (which <hi>God</hi> avert) it ſhould be our
+<hi>Infelicity,</hi> even with the <hi>aid</hi> of that <hi>Charter,</hi> not
+to have wherewith of our <hi>own</hi> to help our ſelves herein. The
+<hi>Cauſe</hi> nevertheleſs is too <hi>ſacred,</hi> both in it
+<hi>ſelf,</hi> and as it is the <hi>King's,</hi> to be permitted to
+<hi>ſink,</hi> while within <pb facs="tcp:151638:14"/> the <hi>ſupport</hi> I have ſo
+often mention'd, of his Own <hi>Soveraign Viſi<g ref="char:EOLhyphen"/>tation;</hi> And more
+particularly in what relares to <hi>Himſelf</hi> within <hi>our Care</hi> in
+the <hi>Mathematical Foundation;</hi> by tranſlating it, from the
+<hi>Hands</hi> in which it now languiſhes, to <hi>thoſe</hi> he is
+pleaſed to intruſt with <hi>that</hi> of his <hi>Own</hi> later
+<hi>Erection,</hi> to the ſame <hi>Royal Purpoſe</hi> in the
+<hi>Advancement</hi> of <hi>Navigation,</hi> within his <hi>Own Palace</hi> and
+<hi>Inſpection</hi> at <hi>Greenwich.</hi>
+            </p>
+            <closer>
+               <hi>I am in moſt reſpectful manner,</hi>
+               <salute>
+                  <hi>My</hi> Lord <hi>and</hi> Gentlemen,</salute>
+               <signed>
+                  <hi>Your ever moſt faithful and obedient Servant,</hi> S.
+Pepys.</signed>
+            </closer>
+         </div>
+         <div type="docket_title">
+            <pb facs="tcp:151638:14"/>
+            <p>upon the State of <hi>Chriſt-Hoſpital.</hi>
+            </p>
+            <p>
+               <hi>Paper V.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:151638:15" rendition="simple:additions"/>
+            <pb facs="tcp:151638:15"/>
+            <head>Mr. <hi>PEPYS</hi> To the <hi>Preſident,</hi> and
+<hi>Governours</hi> of <hi>CHRIST-HOSPITAL,</hi> upon the <hi>Preſent
+State</hi> of the ſaid <hi>HOSPITAL.</hi>
+            </head>
+            <head type="sub">To the Honour'd Sir <hi>John Moor,</hi> Kt. and
+<hi>Preſident,</hi> and the reſt of my Honour'd <hi>Friends,</hi> the
+<hi>Gover<g ref="char:EOLhyphen"/>nours</hi> of <hi>CHRIST-HOSPITAL.</hi>
+            </head>
+            <opener>
+               <dateline>York-Buildings,
+<date>March 30th. 1699.</date>
+               </dateline>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>YOUR <hi>Reſolution</hi> of the <hi>22th</hi> inſtant,
+importing your <hi>Ele<g ref="char:EOLhyphen"/>ction</hi> of me to the <hi>Treaſurerſhip</hi> of
+this <hi>Hoſpital,</hi> was delivered me by the worthy <hi>Gentlemen</hi>
+appointed there<g ref="char:EOLhyphen"/>to, with a degree of <hi>Reſpect</hi> as obliging on
+<hi>their</hi> part, as the <hi>Meſ<g ref="char:EOLhyphen"/>ſage</hi> it ſelf was on
+<hi>Yours;</hi> and both <hi>ſurpriſing.</hi>
+            </p>
+            <p>
+               <hi>Surpriſing</hi> I ſay; but without ought of what (I find)
+was in too much <hi>Tenderneſs</hi> apprehended from me by ſome of this
+<hi>Body</hi> concern<g ref="char:EOLhyphen"/>ing it; as being <hi>One,</hi> who think nothing
+<hi>below</hi> the <hi>Character</hi> of any Man to <hi>execute,</hi> in a
+<hi>Service</hi> of <hi>Charity:</hi> And who therefore in my late
+<hi>Searches</hi> into the <hi>Condition</hi> of this <hi>Houſe,</hi>
+deſcended to <hi>Of<g ref="char:EOLhyphen"/>fices</hi> much <hi>beneath</hi> any thing that can occur
+in what you are <hi>now</hi> calling me to.</p>
+            <p>I therefore do moſt thankfully own the <hi>Proof</hi> you herein
+tender me of the <hi>Continuance</hi> of your <hi>Eſteem,</hi> after the
+unwelcome <hi>Free<g ref="char:EOLhyphen"/>dom</hi> I have for ſome time been unavoidably
+exerciſing towards you, upon the Unhappy <hi>Subject</hi> of your preſent
+<hi>State;</hi> in which <hi>Your ſelves</hi> are now pleaſed to give me
+this <hi>Teſtimony</hi> of your <hi>acquieſcence:</hi> and in the
+<hi>Redreſs</hi> whereof, this <hi>Court</hi> ſhall never <hi>want</hi> any
+thing within <hi>my</hi> power <hi>improvable</hi> thereto.</p>
+            <p>But whether in the <hi>method</hi> you <hi>now</hi> propoſe, is
+<hi>what</hi> I have made it my <hi>buſineſs</hi> for ſome days to
+<hi>conſider;</hi> without being able to bring <pb facs="tcp:151638:16"/> my ſelf to any
+other <hi>Determination</hi> in it, Than that the giving you any
+<hi>concluſive</hi> Anſwer (whether of <hi>Acceptance</hi> or
+<hi>Refuſal)</hi> before this <hi>Reſolution</hi> of yours ſhall have
+paſſed the <hi>Cenſure</hi> of <hi>another <hi>Court,</hi>
+               </hi> is a no
+leſs <hi>Expoſing</hi> of <hi>Myſelf,</hi> than <hi>Impoſing</hi> on
+<hi>You,</hi> (as in a very late <hi>Caſe</hi>) under the
+<hi>
+                  <g ref="char:V">Ʋ</g>ncertain</hi> Iſſue of a <hi>ſubſequent <hi>Court;</hi>
+               </hi> and
+when <hi>that</hi> is <hi>over,</hi> of the <hi>Lord Mayor</hi> and
+<hi>Court</hi> of <hi>Alder<g ref="char:EOLhyphen"/>men</hi> alſo: As <hi>that</hi> without which, by
+the known <hi>Conſtitution</hi> of <hi>all</hi> our <hi>Hoſpitals,</hi> no
+<hi>Election</hi> of a <hi>Treaſurer</hi> is valid. A
+<hi>Conſideration</hi> of more than common <hi>Weight</hi> at this time; from
+the <hi>Queſtion</hi> under which the <hi>Authority</hi> of that
+<hi>Court</hi> now lies with <hi>this;</hi> without Ought I can hear-of yet
+done on <hi>their</hi> ſide, in its <hi>Aſſertion.</hi>
+            </p>
+            <p>Which while in <hi>doing,</hi> and for Your clearer
+<hi>Guidance</hi> in Your <hi>ſecond <hi>Debates</hi>
+               </hi> on this matter at
+the next <hi>Court,</hi> I think it becom<g ref="char:EOLhyphen"/>ing me, in <hi>faithfulneſs</hi>
+both to <hi>You</hi> and <hi>Myſelf,</hi> to lay before You the few following
+<hi>Conſiderations.</hi>
+            </p>
+            <p>
+               <hi>1ſt.</hi>—That I am no <hi>Freeman;</hi> and
+conſequently, according to the <hi>Original <hi>Book</hi>
+               </hi> of
+<hi>Ordinances</hi> by which alone (without entring in<g ref="char:EOLhyphen"/>to the <hi>Reaſon</hi>
+of it) <hi>this <hi>Court</hi>
+               </hi> and <hi>that</hi> of the <hi>Lord
+Mayor</hi> and <hi>Aldermen</hi> are at liberty to Act herein; I neither am
+<hi>capable</hi> of be<g ref="char:EOLhyphen"/>ing Your <hi>Treaſurer,</hi> nor <hi>You</hi> nor
+<hi>They, apart</hi> or <hi>together,</hi> in a <hi>Ca<g ref="char:EOLhyphen"/>pacity</hi> of
+<hi>making</hi> me <hi>ſo.</hi> Nor is there, I believe, any one
+<hi>Inſtance</hi> to be ſhewn me, of a <hi>Treaſurer</hi> not a
+<hi>Freeman:</hi> And ſhould therefore moſt unwillingly ſubject Myſelf
+to <hi>Queſtion,</hi> for meddling <hi>unwarrantably</hi> with a
+<hi>Revenue</hi> ſo <hi>Sacred</hi> as that of the <hi>Poor's;</hi> or be an
+<hi>Occaſion</hi> of Your <hi>adventuring</hi> upon <hi>that</hi> in
+<hi>my</hi> Caſe, which was <hi>never</hi> yet done in <hi>any,</hi> nor can
+<hi>now</hi> juſtifiably be in <hi>this.</hi>
+            </p>
+            <p>
+               <hi>2dly.</hi>—That the <hi>Office</hi> and <hi>Work</hi> of
+Your <hi>Treaſurer</hi> ought not to be eſtimated by what we have
+<hi>ſeen</hi> of it in its <hi>Execution</hi> for ſome Years
+<hi>paſt;</hi> but by the <hi>Condition</hi> the <hi>Houſe</hi> is reduced
+to, from its being executed no <hi>otherwiſe.</hi> As being an
+<hi>Office,</hi> that calls at once for <hi>Qualifications,
+<hi>ſuch</hi>
+               </hi> and <hi>ſo many,</hi> as rarely meet in the ſame
+<hi>Perſon:</hi> Such are (beſides <hi>that</hi> of an approved
+<hi>Integrity) Vigour</hi> of <hi>Mind, <hi>Steadineſs</hi>
+               </hi> of
+<hi>Health, <hi>Entire</hi> Leaſure, Vnintereſtedneſs, <hi>Zeal</hi>
+               </hi>
+for and <hi>Tenderneſs</hi> towards the <hi>Poor,</hi> General
+<hi>Experience,</hi> and par<g ref="char:EOLhyphen"/>ticular <hi>Practice</hi> in the Buſineſs of
+<hi>Accounts,</hi> a <hi>Genius</hi> fitted for <hi>Com<g ref="char:EOLhyphen"/>mand</hi> joyn'd with
+<hi>Temper,</hi> a <hi>Thorough-Inſight</hi> into the <hi>Laws</hi> and
+<hi>Ends</hi> of our <hi>Conſtitution,</hi> and a <hi>Capacity</hi> of
+<hi>Controlling</hi> every of our <hi>Officers</hi> and <hi>Maſters</hi> in
+the <hi>Execution</hi> of <hi>their <hi>Dutys,</hi>
+               </hi> with a conſtancy of
+<hi>Attendance</hi> and <hi>Application</hi> (in his <hi>own Perſon,</hi> and
+not by <hi>Others</hi>) to the <hi>Performance</hi> of his <hi>own.</hi> A
+<hi>Task</hi> both in <hi>Bulk</hi> and <hi>Weight,</hi> too much for <hi>my
+Age</hi> and known <hi>Infirmities;</hi> Beſides the <hi>Diſabilitys</hi> I
+am alone <hi>Conſcious</hi> to my ſelf of, for it.</p>
+            <p>And though <hi>what</hi> I have here to <hi>add,</hi> might not
+poſſibly be reckon'd of <hi>Moment</hi> enough <hi>alone</hi> in this
+<hi>Debate:</hi> yet in <hi>Conjunction</hi> with what is <hi>already</hi>
+ſaid, I know not how without <hi>Injury</hi> to <hi>my ſelf</hi> to omit
+the obſerving; that I can with no <hi>Satisfaction</hi> think of
+<hi>accepting</hi> of a <hi>Charge,</hi> which <hi>my ſelf</hi> muſt be
+own'd to have had the greateſt <hi>Hand</hi> in the rendring
+<hi>Vacant.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:151638:16"/>
+               <hi>3ly.</hi>—That ſuitable to my
+<hi>Advice</hi> to you <hi>elſewhere</hi> on this <hi>Subject,</hi> I do not
+ſee with what <hi>Safety</hi> this <hi>Court</hi> can proceed to the giving a
+<hi>final Diſcharge</hi> to its <hi>late <hi>Treaſurer,</hi>
+               </hi> nor how
+it ſhould expect his being <hi>Succeeded</hi> by any Perſon of
+<hi>Sincerity</hi> or <hi>Subſtance,</hi> till a <hi>State</hi> ſhall be
+firſt <hi>Adjuſted</hi> of all your <hi>Accounts, Revenues, Charges</hi>
+and <hi>Debts,</hi> to your Own and Their <hi>Satisfaction;</hi> and
+<hi>that</hi> alſo <hi>laid before,</hi> and <hi>acqui<g ref="char:EOLhyphen"/>eſced-in</hi> by the
+<hi>Court</hi> of <hi>Aldermen.</hi> Beſides the <hi>Review</hi> and freſh
+<hi>Eſta<g ref="char:EOLhyphen"/>bliſhment</hi> fit to be firſt had of the <hi>Work</hi> and
+<hi>Inſtructions</hi> of <hi>that <hi>Officer,</hi>
+               </hi> before the
+<hi>Admiſſion</hi> of a <hi>New.</hi> As foreſeeing little <hi>Fruit</hi>
+from any <hi>Change</hi> of <hi>Hands</hi> (be it <hi>what</hi> it will) where
+thoſe <hi>Hands</hi> ſhall be obliged by no other <hi>Rules</hi> nor
+<hi>Reſtrictions,</hi> than thoſe we owe our preſent
+<hi>Di<g ref="char:EOLhyphen"/>ſtreſſes</hi> to.</p>
+            <p>For the more Succeſsful <hi>Diſpatch</hi> of which, as well on
+the part of your ſaid <hi>Treaſurer</hi> as <hi>Your ſelves;</hi> I
+ſubmit it to You, whether it may not be <hi>adviſable,</hi> that the
+<hi>Current Work</hi> of this <hi>Office</hi> be for the <hi>Preſent</hi>
+lodg'd with a ſmall <hi>Commmittee</hi> of Your <hi>own Number, properly</hi>
+choſen; till by the <hi>Adjuſtment</hi> of theſe Matters, You ſhall be
+in a <hi>Condition</hi> of reſtoring it to its <hi>Ordinary Methods.</hi>
+            </p>
+            <p>
+               <hi>4ly.</hi>—Laſtly, That no <hi>Degree</hi> of
+<hi>Induſtry, Experience,</hi> or other the <hi>Vertues</hi> (before
+requir'd) in a <hi>Treaſurer,</hi> can alone be thought <hi>Sufficient</hi>
+at this <hi>Juncture</hi> (where our <hi>Whole <hi>Conſtitution</hi>
+               </hi>
+lies at once out of Order) to compaſs its <hi>Reformation,</hi> without equal
+<hi>Aid</hi> from a no leſs <hi>vigorous</hi> and <hi>perſevering,</hi>
+however otherwiſe <hi>meritorious</hi> a <hi>Preſident. <hi>One,</hi>
+               </hi>
+I mean, whoſe <hi>thorough-knowledge</hi> in the <hi>Deſign, Powers,
+Limitations,</hi> and <hi>Orders</hi> of this Pious <hi>Foundation,</hi> and
+the <hi>Rules</hi> of their <hi>Execution,</hi> is able both to preſerve
+<hi>himſelf</hi> from being either <hi>diſcouraged</hi> or
+<hi>impoſed<g ref="char:EOLhyphen"/>on,</hi> and by his <hi>Authority, Zeal</hi> and
+<hi>Vigilance,</hi> to prevent thoſe <hi>Practices</hi> which, from the
+<hi>want</hi> hereof, the <hi>Generality</hi> of this <hi>Houſe</hi> has been
+ſo long <hi>miſled</hi> by, to its <hi>Vndoing.</hi> A <hi>Reflection,</hi>
+that in one word, would <hi>alone</hi> ſuffice (lay there nothing
+<hi>elſe</hi> in my way) to <hi>deter</hi> me from the <hi>
+                  <g ref="char:V">Ʋ</g>ndertaking</hi>
+You <hi>invite</hi> me to, under the <hi>Circumſtances</hi> we at preſent
+la<g ref="char:EOLhyphen"/>bour in this <hi>Particular.</hi>
+            </p>
+            <p>
+               <hi>Which</hi> having ſaid, and the <hi>Reaſons</hi> of it
+thus <hi>opened;</hi> it remains only for me to <hi>beg,</hi> that my
+<hi>declining</hi> Your preſent <hi>Offer</hi> may not be taken for a
+<hi>Declenſion</hi> in any part of my <hi>Concernment</hi> for the
+<hi>Proſperity</hi> of this <hi>Houſe.</hi> Foraſmuch as no
+<hi>Conſideration</hi> ſhall ever <hi>diſcourage</hi> or <hi>di<g ref="char:EOLhyphen"/>vert</hi>
+me from the <hi>purſuit</hi> of it; till by <hi>ſome <hi>Means,</hi>
+Ordinary</hi> or <hi>Extra<g ref="char:EOLhyphen"/>ordinary</hi> (though much rather the
+<hi>former</hi>) I ſee it <hi>reſtored</hi> to the <hi>State</hi> wherein
+all <hi>Good men</hi> wiſh it.</p>
+            <p>In view whereof, give me leave with great <hi>Satisfaction</hi>
+once more to <hi>aſſure</hi> You, that (without any ſuch
+<hi>Obligation</hi> as <hi>this</hi> of your <hi>Trea<g ref="char:EOLhyphen"/>ſurerſhip)</hi>
+neither <hi>You</hi> nor Your helpleſs <hi>Orphans</hi> ſhall ever want the
+beſt <hi>Effects</hi> of my <hi>Perſonal Attendance</hi> and
+<hi>Service,</hi> from the <hi>Moment</hi> that, by <hi>Your
+thorough-Applications,</hi> and thoſe of the <hi>Court</hi> of
+<hi>Alder<g ref="char:EOLhyphen"/>men</hi> towards it, I ſhall have any <hi>Grounds</hi> to
+<hi>hope,</hi> that ſuch my <hi>Atten<g ref="char:EOLhyphen"/>dance</hi> and <hi>Service,</hi> may be
+followed with any <hi>Succeſs,</hi> to the <hi>Recovery</hi> of the
+<hi>loſt Honour</hi> of this <hi>Houſe,</hi> by its <hi>Return</hi> to that
+Religious <hi>Strictneſs</hi> 
+               <pb facs="tcp:151638:17" rendition="simple:additions"/> which once
+diſtinguiſh'd it from all <hi>others,</hi> in its <hi>Compliances</hi> with
+the holy and charitable <hi>Ends</hi> provided for by its <hi>Munificent
+<hi>Founders</hi>
+               </hi> and <hi>Benefactors,</hi> I am</p>
+            <closer>
+               <salute>Gentlemen,</salute>
+               <signed>Your moſt humble and obedient Servant, S.
+Pepys.</signed>
+            </closer>
+         </div>
+         <div type="docket_title">
+            <pb facs="tcp:151638:17"/>
+            <p>upon the State of <hi>Chriſt-Hoſpital.</hi>
+            </p>
+            <p>
+               <hi>Paper VI.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
